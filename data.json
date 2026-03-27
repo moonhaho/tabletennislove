@@ -346,29 +346,29 @@
   "admins": {
     "admins": [
       {
-        "name": "ÃÂ«ÃÂ¬ÃÂ¸ÃÂ­ÃÂÃÂÃÂ«ÃÂ°ÃÂ°",
+        "name": "H.B. Moon",
         "email": "moonhaho@gmail.com",
-        "role": "ÃÂ¬ÃÂÃÂ´ÃÂ¬ÃÂÃÂÃÂ¬ÃÂÃÂ"
+        "role": "administer"
       },
       {
-        "name": "ÃªÂ¹ÂÃ¬ÂÂ´Ã­ÂÂ",
+        "name": "E.T. Kim",
         "email": "winmedia24@gmail.com",
-        "role": "ÃªÂ°ÂÃ«ÂÂ"
+        "role": "Head Coach"
       },
       {
-        "name": "Ã¬ÂÂÃ¬ÂÂÃ¬ÂÂ°",
+        "name": "Y.S. Ahn",
         "email": "ahn.youngsan@gmail.com",
-        "role": "Ã¬Â½ÂÃ¬Â¹Â"
+        "role": "Coach"
       },
       {
-        "name": "Ã¬ÂÂ¬Ã¬Â ÂÃªÂµÂ­",
+        "name": "J.K. Shim­",
         "email": "nogiveup2012@gmail.com",
-        "role": "Ã¬Â½ÂÃ¬Â¹Â"
+        "role": "Coach"
       },
       {
-        "name": "ÃªÂ¹ÂÃªÂ³ÂÃ­ÂÂ",
+        "name": "K.H. Kim",
         "email": "sona5680@gmail.com",
-        "role": "Ã¬Â´ÂÃ«Â¬Â´"
+        "role": "Moderator"
       }
     ]
   },
