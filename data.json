@@ -354,8 +354,13 @@
         "name": "김이태",
         "email": "winmedia24@gmail.com",
         "role": "감독"
+      },
+      {
+        "name": "문학배",
+        "email": "moonhaho1@gmail.com",
+        "role": "코치"
       }
     ]
   },
-  "savedAt": "2026-03-27T02:20:12.283Z"
+  "savedAt": "2026-03-27T02:20:51.063Z"
 }
