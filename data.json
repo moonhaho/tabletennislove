@@ -354,8 +354,13 @@
         "name": "안영산",
         "email": "ahn.youngsan@gmail.com",
         "role": "코치"
+      },
+      {
+        "name": "김이태",
+        "email": "winmedia24@gmail.com",
+        "role": "감독"
       }
     ]
   },
-  "savedAt": "2026-03-27T00:35:50.716Z"
+  "savedAt": "2026-03-27T00:36:28.333Z"
 }
