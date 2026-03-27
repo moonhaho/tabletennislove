@@ -359,8 +359,13 @@
         "name": "안영산",
         "email": "ahn.youngsan@gmail.com",
         "role": "코치"
+      },
+      {
+        "name": "심정국",
+        "email": "nogiveup2012@gmail.com",
+        "role": "코치"
       }
     ]
   },
-  "savedAt": "2026-03-27T02:22:01.042Z"
+  "savedAt": "2026-03-27T02:22:26.725Z"
 }
