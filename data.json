@@ -70,12 +70,26 @@
         "matchHistory": [],
         "joinDate": "2026-03-27",
         "peakRating": 1800
+      },
+      {
+        "id": 29,
+        "name": "문학배",
+        "rating": 1800,
+        "wins": 0,
+        "losses": 0,
+        "totalSetsWon": 0,
+        "totalSetsLost": 0,
+        "totalPointsWon": 0,
+        "totalPointsLost": 0,
+        "matchHistory": [],
+        "joinDate": "2026-03-27",
+        "peakRating": 1800
       }
     ],
     "matches": [],
-    "nextPlayerId": 29,
+    "nextPlayerId": 30,
     "nextMatchId": 1,
-    "lastUpdated": "2026-03-27T02:25:17.506Z"
+    "lastUpdated": "2026-03-27T02:25:26.606Z"
   },
   "admins": {
     "admins": [
@@ -106,5 +120,5 @@
       }
     ]
   },
-  "savedAt": "2026-03-27T02:25:17.506Z"
+  "savedAt": "2026-03-27T02:25:26.606Z"
 }
