@@ -59,7 +59,7 @@
       },
       {
         "id": 5,
-        "name": "Coach J.K. Shim",
+        "name": "Coach Michael Sim",
         "rating": 1800,
         "wins": 0,
         "losses": 0,
@@ -392,7 +392,7 @@
         "pointBonus": 1,
         "recordedBy": "H.B. Moon",
         "date": "2026-03-27",
-        "time": "ì¤ì  08:21"
+        "time": "08:21"
       }
     ],
     "nextPlayerId": 25,
@@ -402,7 +402,7 @@
   "admins": {
     "admins": [
       {
-        "name": "H.B. Moon",
+        "name": "Hakbae Moon",
         "email": "moonhaho@gmail.com",
         "role": "administer"
       },
@@ -417,7 +417,7 @@
         "role": "Coach"
       },
       {
-        "name": "J.K.Shim",
+        "name": "Michael Sim",
         "email": "nogiveup2012@gmail.com",
         "role": "Coach"
       },
