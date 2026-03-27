@@ -266,12 +266,26 @@
         "matchHistory": [],
         "joinDate": "2026-03-27",
         "peakRating": 850
+      },
+      {
+        "id": 20,
+        "name": "K.H. Jang",
+        "rating": 800,
+        "wins": 0,
+        "losses": 0,
+        "totalSetsWon": 0,
+        "totalSetsLost": 0,
+        "totalPointsWon": 0,
+        "totalPointsLost": 0,
+        "matchHistory": [],
+        "joinDate": "2026-03-27",
+        "peakRating": 800
       }
     ],
     "matches": [],
-    "nextPlayerId": 20,
+    "nextPlayerId": 21,
     "nextMatchId": 1,
-    "lastUpdated": "2026-03-27T03:08:38.424Z"
+    "lastUpdated": "2026-03-27T03:08:54.184Z"
   },
   "admins": {
     "admins": [
@@ -302,5 +316,5 @@
       }
     ]
   },
-  "savedAt": "2026-03-27T03:08:38.424Z"
+  "savedAt": "2026-03-27T03:08:54.184Z"
 }
