@@ -3,7 +3,7 @@
     "players": [
       {
         "id": 1,
-        "name": "N.K.Kang",
+        "name": "Namkyu Kang",
         "rating": 2200,
         "wins": 0,
         "losses": 0,
@@ -45,7 +45,7 @@
       },
       {
         "id": 4,
-        "name": "Coach. Y.S. Ahn",
+        "name": "Coach. Youngsan Ahn",
         "rating": 2000,
         "wins": 0,
         "losses": 0,
@@ -73,7 +73,7 @@
       },
       {
         "id": 6,
-        "name": "H.B. Moon",
+        "name": "Hakbae Moon",
         "rating": 1798,
         "wins": 0,
         "losses": 1,
@@ -84,7 +84,7 @@
         "matchHistory": [
           {
             "matchId": 1,
-            "opponent": "S.H. Moon",
+            "opponent": "Sunghyeon Moon",
             "result": "L",
             "change": "-2",
             "ratingAfter": 1798,
@@ -97,7 +97,7 @@
       },
       {
         "id": 7,
-        "name": "I.Y.Park",
+        "name": "Ilyoung Park",
         "rating": 1600,
         "wins": 0,
         "losses": 0,
@@ -111,7 +111,7 @@
       },
       {
         "id": 8,
-        "name": "S.H. Moon",
+        "name": "Sunghyeon Moon",
         "rating": 1379,
         "wins": 1,
         "losses": 0,
@@ -122,7 +122,7 @@
         "matchHistory": [
           {
             "matchId": 1,
-            "opponent": "H.B. Moon",
+            "opponent": "Hakbae Moon",
             "result": "W",
             "change": "+29",
             "ratingAfter": 1379,
@@ -135,7 +135,7 @@
       },
       {
         "id": 9,
-        "name": "J.H. Kim",
+        "name": "Jihyun Kim",
         "rating": 1300,
         "wins": 0,
         "losses": 0,
@@ -149,7 +149,7 @@
       },
       {
         "id": 10,
-        "name": "I.B. Song",
+        "name": "Inbum Song",
         "rating": 1200,
         "wins": 0,
         "losses": 0,
@@ -163,7 +163,7 @@
       },
       {
         "id": 11,
-        "name": "Y.H. Doe",
+        "name": "Young Doe",
         "rating": 1150,
         "wins": 0,
         "losses": 0,
@@ -219,7 +219,7 @@
       },
       {
         "id": 15,
-        "name": "J.S. Kim",
+        "name": "Junsoo Kim",
         "rating": 1000,
         "wins": 0,
         "losses": 0,
@@ -233,7 +233,7 @@
       },
       {
         "id": 16,
-        "name": "J.M. Hwang",
+        "name": "Jeongmun Hwang",
         "rating": 850,
         "wins": 0,
         "losses": 0,
@@ -412,7 +412,7 @@
         "role": "Head Coach"
       },
       {
-        "name": "Y.S. Ahn",
+        "name": "Youngsan Ahn",
         "email": "ahn.youngsan@gmail.com",
         "role": "Coach"
       },
