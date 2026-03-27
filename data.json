@@ -168,12 +168,26 @@
         "matchHistory": [],
         "joinDate": "2026-03-27",
         "peakRating": 1100
+      },
+      {
+        "id": 36,
+        "name": "오동수",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "totalSetsWon": 0,
+        "totalSetsLost": 0,
+        "totalPointsWon": 0,
+        "totalPointsLost": 0,
+        "matchHistory": [],
+        "joinDate": "2026-03-27",
+        "peakRating": 1000
       }
     ],
     "matches": [],
-    "nextPlayerId": 36,
+    "nextPlayerId": 37,
     "nextMatchId": 1,
-    "lastUpdated": "2026-03-27T02:26:55.950Z"
+    "lastUpdated": "2026-03-27T02:27:04.370Z"
   },
   "admins": {
     "admins": [
@@ -204,5 +218,5 @@
       }
     ]
   },
-  "savedAt": "2026-03-27T02:26:55.950Z"
+  "savedAt": "2026-03-27T02:27:04.370Z"
 }
