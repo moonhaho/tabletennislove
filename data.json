@@ -1,376 +1,39 @@
 {
   "data": {
-    "players": [
-      {
-        "id": 2,
-        "name": "Timothy",
-        "rating": 2100,
-        "wins": 0,
-        "losses": 0,
-        "totalSetsWon": 0,
-        "totalSetsLost": 0,
-        "totalPointsWon": 0,
-        "totalPointsLost": 0,
-        "matchHistory": [],
-        "joinDate": "2026-03-26",
-        "peakRating": 2100
-      },
-      {
-        "id": 25,
-        "name": "강남규",
-        "rating": 2200,
-        "wins": 0,
-        "losses": 0,
-        "totalSetsWon": 0,
-        "totalSetsLost": 0,
-        "totalPointsWon": 0,
-        "totalPointsLost": 0,
-        "matchHistory": [],
-        "joinDate": "2026-03-27",
-        "peakRating": 2200
-      },
-      {
-        "id": 26,
-        "name": "김이태감독님(쉐이크)",
-        "rating": 2000,
-        "wins": 0,
-        "losses": 0,
-        "totalSetsWon": 0,
-        "totalSetsLost": 0,
-        "totalPointsWon": 0,
-        "totalPointsLost": 0,
-        "matchHistory": [],
-        "joinDate": "2026-03-27",
-        "peakRating": 2000
-      },
-      {
-        "id": 27,
-        "name": "안영산코치님",
-        "rating": 2000,
-        "wins": 0,
-        "losses": 0,
-        "totalSetsWon": 0,
-        "totalSetsLost": 0,
-        "totalPointsWon": 0,
-        "totalPointsLost": 0,
-        "matchHistory": [],
-        "joinDate": "2026-03-27",
-        "peakRating": 2000
-      },
-      {
-        "id": 28,
-        "name": "심정국코치님",
-        "rating": 1800,
-        "wins": 0,
-        "losses": 0,
-        "totalSetsWon": 0,
-        "totalSetsLost": 0,
-        "totalPointsWon": 0,
-        "totalPointsLost": 0,
-        "matchHistory": [],
-        "joinDate": "2026-03-27",
-        "peakRating": 1800
-      },
-      {
-        "id": 29,
-        "name": "문학배",
-        "rating": 1800,
-        "wins": 0,
-        "losses": 0,
-        "totalSetsWon": 0,
-        "totalSetsLost": 0,
-        "totalPointsWon": 0,
-        "totalPointsLost": 0,
-        "matchHistory": [],
-        "joinDate": "2026-03-27",
-        "peakRating": 1800
-      },
-      {
-        "id": 30,
-        "name": "박일영",
-        "rating": 1600,
-        "wins": 0,
-        "losses": 0,
-        "totalSetsWon": 0,
-        "totalSetsLost": 0,
-        "totalPointsWon": 0,
-        "totalPointsLost": 0,
-        "matchHistory": [],
-        "joinDate": "2026-03-27",
-        "peakRating": 1600
-      },
-      {
-        "id": 31,
-        "name": "문성현",
-        "rating": 1350,
-        "wins": 0,
-        "losses": 0,
-        "totalSetsWon": 0,
-        "totalSetsLost": 0,
-        "totalPointsWon": 0,
-        "totalPointsLost": 0,
-        "matchHistory": [],
-        "joinDate": "2026-03-27",
-        "peakRating": 1350
-      },
-      {
-        "id": 32,
-        "name": "김지현",
-        "rating": 1300,
-        "wins": 0,
-        "losses": 0,
-        "totalSetsWon": 0,
-        "totalSetsLost": 0,
-        "totalPointsWon": 0,
-        "totalPointsLost": 0,
-        "matchHistory": [],
-        "joinDate": "2026-03-27",
-        "peakRating": 1300
-      },
-      {
-        "id": 33,
-        "name": "송인범",
-        "rating": 1200,
-        "wins": 0,
-        "losses": 0,
-        "totalSetsWon": 0,
-        "totalSetsLost": 0,
-        "totalPointsWon": 0,
-        "totalPointsLost": 0,
-        "matchHistory": [],
-        "joinDate": "2026-03-27",
-        "peakRating": 1200
-      },
-      {
-        "id": 34,
-        "name": "도영훈",
-        "rating": 1150,
-        "wins": 0,
-        "losses": 0,
-        "totalSetsWon": 0,
-        "totalSetsLost": 0,
-        "totalPointsWon": 0,
-        "totalPointsLost": 0,
-        "matchHistory": [],
-        "joinDate": "2026-03-27",
-        "peakRating": 1150
-      },
-      {
-        "id": 35,
-        "name": "최동천",
-        "rating": 1100,
-        "wins": 0,
-        "losses": 0,
-        "totalSetsWon": 0,
-        "totalSetsLost": 0,
-        "totalPointsWon": 0,
-        "totalPointsLost": 0,
-        "matchHistory": [],
-        "joinDate": "2026-03-27",
-        "peakRating": 1100
-      },
-      {
-        "id": 36,
-        "name": "오동수",
-        "rating": 1000,
-        "wins": 0,
-        "losses": 0,
-        "totalSetsWon": 0,
-        "totalSetsLost": 0,
-        "totalPointsWon": 0,
-        "totalPointsLost": 0,
-        "matchHistory": [],
-        "joinDate": "2026-03-27",
-        "peakRating": 1000
-      },
-      {
-        "id": 37,
-        "name": "장동혜",
-        "rating": 1000,
-        "wins": 0,
-        "losses": 0,
-        "totalSetsWon": 0,
-        "totalSetsLost": 0,
-        "totalPointsWon": 0,
-        "totalPointsLost": 0,
-        "matchHistory": [],
-        "joinDate": "2026-03-27",
-        "peakRating": 1000
-      },
-      {
-        "id": 38,
-        "name": "김진수",
-        "rating": 1000,
-        "wins": 0,
-        "losses": 0,
-        "totalSetsWon": 0,
-        "totalSetsLost": 0,
-        "totalPointsWon": 0,
-        "totalPointsLost": 0,
-        "matchHistory": [],
-        "joinDate": "2026-03-27",
-        "peakRating": 1000
-      },
-      {
-        "id": 39,
-        "name": "황정문",
-        "rating": 850,
-        "wins": 0,
-        "losses": 0,
-        "totalSetsWon": 0,
-        "totalSetsLost": 0,
-        "totalPointsWon": 0,
-        "totalPointsLost": 0,
-        "matchHistory": [],
-        "joinDate": "2026-03-27",
-        "peakRating": 850
-      },
-      {
-        "id": 40,
-        "name": "강선희",
-        "rating": 850,
-        "wins": 0,
-        "losses": 0,
-        "totalSetsWon": 0,
-        "totalSetsLost": 0,
-        "totalPointsWon": 0,
-        "totalPointsLost": 0,
-        "matchHistory": [],
-        "joinDate": "2026-03-27",
-        "peakRating": 850
-      },
-      {
-        "id": 41,
-        "name": "윤혜경",
-        "rating": 850,
-        "wins": 0,
-        "losses": 0,
-        "totalSetsWon": 0,
-        "totalSetsLost": 0,
-        "totalPointsWon": 0,
-        "totalPointsLost": 0,
-        "matchHistory": [],
-        "joinDate": "2026-03-27",
-        "peakRating": 850
-      },
-      {
-        "id": 42,
-        "name": "박선희",
-        "rating": 850,
-        "wins": 0,
-        "losses": 0,
-        "totalSetsWon": 0,
-        "totalSetsLost": 0,
-        "totalPointsWon": 0,
-        "totalPointsLost": 0,
-        "matchHistory": [],
-        "joinDate": "2026-03-27",
-        "peakRating": 850
-      },
-      {
-        "id": 43,
-        "name": "장기호",
-        "rating": 800,
-        "wins": 0,
-        "losses": 0,
-        "totalSetsWon": 0,
-        "totalSetsLost": 0,
-        "totalPointsWon": 0,
-        "totalPointsLost": 0,
-        "matchHistory": [],
-        "joinDate": "2026-03-27",
-        "peakRating": 800
-      },
-      {
-        "id": 44,
-        "name": "김계현",
-        "rating": 700,
-        "wins": 0,
-        "losses": 0,
-        "totalSetsWon": 0,
-        "totalSetsLost": 0,
-        "totalPointsWon": 0,
-        "totalPointsLost": 0,
-        "matchHistory": [],
-        "joinDate": "2026-03-27",
-        "peakRating": 700
-      },
-      {
-        "id": 45,
-        "name": "장희정",
-        "rating": 650,
-        "wins": 0,
-        "losses": 0,
-        "totalSetsWon": 0,
-        "totalSetsLost": 0,
-        "totalPointsWon": 0,
-        "totalPointsLost": 0,
-        "matchHistory": [],
-        "joinDate": "2026-03-27",
-        "peakRating": 650
-      },
-      {
-        "id": 46,
-        "name": "박혜경",
-        "rating": 600,
-        "wins": 0,
-        "losses": 0,
-        "totalSetsWon": 0,
-        "totalSetsLost": 0,
-        "totalPointsWon": 0,
-        "totalPointsLost": 0,
-        "matchHistory": [],
-        "joinDate": "2026-03-27",
-        "peakRating": 600
-      },
-      {
-        "id": 47,
-        "name": "강향자",
-        "rating": 600,
-        "wins": 0,
-        "losses": 0,
-        "totalSetsWon": 0,
-        "totalSetsLost": 0,
-        "totalPointsWon": 0,
-        "totalPointsLost": 0,
-        "matchHistory": [],
-        "joinDate": "2026-03-27",
-        "peakRating": 600
-      }
-    ],
+    "players": [],
     "matches": [],
-    "nextPlayerId": 48,
+    "nextPlayerId": 1,
     "nextMatchId": 1,
-    "lastUpdated": "2026-03-27T02:51:01.791Z"
+    "lastUpdated": "2026-03-27T03:02:00.975Z"
   },
   "admins": {
     "admins": [
       {
-        "name": "ë¬¸íë°°",
+        "name": "Ã«Â¬Â¸Ã­ÂÂÃ«Â°Â°",
         "email": "moonhaho@gmail.com",
-        "role": "ì´ìì"
+        "role": "Ã¬ÂÂ´Ã¬ÂÂÃ¬ÂÂ"
       },
       {
-        "name": "김이태",
+        "name": "ê¹ì´í",
         "email": "winmedia24@gmail.com",
-        "role": "감독"
+        "role": "ê°ë"
       },
       {
-        "name": "안영산",
+        "name": "ììì°",
         "email": "ahn.youngsan@gmail.com",
-        "role": "코치"
+        "role": "ì½ì¹"
       },
       {
-        "name": "심정국",
+        "name": "ì¬ì êµ­",
         "email": "nogiveup2012@gmail.com",
-        "role": "코치"
+        "role": "ì½ì¹"
       },
       {
-        "name": "김계현",
+        "name": "ê¹ê³í",
         "email": "sona5680@gmail.com",
-        "role": "총무"
+        "role": "ì´ë¬´"
       }
     ]
   },
-  "savedAt": "2026-03-27T02:52:31.756Z"
+  "savedAt": "2026-03-27T03:02:00.975Z"
 }
