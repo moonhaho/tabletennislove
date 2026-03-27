@@ -140,12 +140,26 @@
         "matchHistory": [],
         "joinDate": "2026-03-27",
         "peakRating": 1200
+      },
+      {
+        "id": 11,
+        "name": "Y.H. Doe",
+        "rating": 1150,
+        "wins": 0,
+        "losses": 0,
+        "totalSetsWon": 0,
+        "totalSetsLost": 0,
+        "totalPointsWon": 0,
+        "totalPointsLost": 0,
+        "matchHistory": [],
+        "joinDate": "2026-03-27",
+        "peakRating": 1150
       }
     ],
     "matches": [],
-    "nextPlayerId": 11,
+    "nextPlayerId": 12,
     "nextMatchId": 1,
-    "lastUpdated": "2026-03-27T03:06:25.332Z"
+    "lastUpdated": "2026-03-27T03:06:40.782Z"
   },
   "admins": {
     "admins": [
@@ -176,5 +190,5 @@
       }
     ]
   },
-  "savedAt": "2026-03-27T03:06:25.333Z"
+  "savedAt": "2026-03-27T03:06:40.782Z"
 }
