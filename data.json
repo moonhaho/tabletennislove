@@ -280,12 +280,26 @@
         "matchHistory": [],
         "joinDate": "2026-03-27",
         "peakRating": 800
+      },
+      {
+        "id": 21,
+        "name": "K.H. Kim",
+        "rating": 700,
+        "wins": 0,
+        "losses": 0,
+        "totalSetsWon": 0,
+        "totalSetsLost": 0,
+        "totalPointsWon": 0,
+        "totalPointsLost": 0,
+        "matchHistory": [],
+        "joinDate": "2026-03-27",
+        "peakRating": 700
       }
     ],
     "matches": [],
-    "nextPlayerId": 21,
+    "nextPlayerId": 22,
     "nextMatchId": 1,
-    "lastUpdated": "2026-03-27T03:08:54.184Z"
+    "lastUpdated": "2026-03-27T03:09:08.100Z"
   },
   "admins": {
     "admins": [
@@ -316,5 +330,5 @@
       }
     ]
   },
-  "savedAt": "2026-03-27T03:08:54.184Z"
+  "savedAt": "2026-03-27T03:09:08.100Z"
 }
