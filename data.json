@@ -56,12 +56,26 @@
         "matchHistory": [],
         "joinDate": "2026-03-27",
         "peakRating": 2000
+      },
+      {
+        "id": 5,
+        "name": "Coach J.K. Shim",
+        "rating": 1800,
+        "wins": 0,
+        "losses": 0,
+        "totalSetsWon": 0,
+        "totalSetsLost": 0,
+        "totalPointsWon": 0,
+        "totalPointsLost": 0,
+        "matchHistory": [],
+        "joinDate": "2026-03-27",
+        "peakRating": 1800
       }
     ],
     "matches": [],
-    "nextPlayerId": 5,
+    "nextPlayerId": 6,
     "nextMatchId": 1,
-    "lastUpdated": "2026-03-27T03:04:56.544Z"
+    "lastUpdated": "2026-03-27T03:05:15.146Z"
   },
   "admins": {
     "admins": [
@@ -92,5 +106,5 @@
       }
     ]
   },
-  "savedAt": "2026-03-27T03:04:56.544Z"
+  "savedAt": "2026-03-27T03:05:15.147Z"
 }
