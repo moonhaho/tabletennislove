@@ -341,7 +341,7 @@
     "matches": [],
     "nextPlayerId": 25,
     "nextMatchId": 1,
-    "lastUpdated": "2026-03-27T00:34:10.904Z"
+    "lastUpdated": "2026-03-27T00:35:50.714Z"
   },
   "admins": {
     "admins": [
@@ -349,8 +349,13 @@
         "name": "문학배",
         "email": "moonhaho@gmail.com",
         "role": "운영자"
+      },
+      {
+        "name": "안영산",
+        "email": "ahn.youngsan@gmail.com",
+        "role": "코치"
       }
     ]
   },
-  "savedAt": "2026-03-27T00:34:10.904Z"
+  "savedAt": "2026-03-27T00:35:50.716Z"
 }
