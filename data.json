@@ -308,12 +308,26 @@
         "matchHistory": [],
         "joinDate": "2026-03-27",
         "peakRating": 650
+      },
+      {
+        "id": 23,
+        "name": "H.K. Park",
+        "rating": 600,
+        "wins": 0,
+        "losses": 0,
+        "totalSetsWon": 0,
+        "totalSetsLost": 0,
+        "totalPointsWon": 0,
+        "totalPointsLost": 0,
+        "matchHistory": [],
+        "joinDate": "2026-03-27",
+        "peakRating": 600
       }
     ],
     "matches": [],
-    "nextPlayerId": 23,
+    "nextPlayerId": 24,
     "nextMatchId": 1,
-    "lastUpdated": "2026-03-27T03:09:20.654Z"
+    "lastUpdated": "2026-03-27T03:09:33.768Z"
   },
   "admins": {
     "admins": [
@@ -344,5 +358,5 @@
       }
     ]
   },
-  "savedAt": "2026-03-27T03:09:20.654Z"
+  "savedAt": "2026-03-27T03:09:33.768Z"
 }
