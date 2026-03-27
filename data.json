@@ -16,20 +16,6 @@
         "peakRating": 2100
       },
       {
-        "id": 21,
-        "name": "ì¥í¬ì ",
-        "rating": 650,
-        "wins": 0,
-        "losses": 0,
-        "totalSetsWon": 0,
-        "totalSetsLost": 0,
-        "totalPointsWon": 0,
-        "totalPointsLost": 0,
-        "matchHistory": [],
-        "joinDate": "2026-03-26",
-        "peakRating": 650
-      },
-      {
         "id": 22,
         "name": "ë°íê²½",
         "rating": 600,
@@ -75,7 +61,7 @@
     "matches": [],
     "nextPlayerId": 25,
     "nextMatchId": 1,
-    "lastUpdated": "2026-03-27T02:23:38.081Z"
+    "lastUpdated": "2026-03-27T02:23:39.681Z"
   },
   "admins": {
     "admins": [
@@ -106,5 +92,5 @@
       }
     ]
   },
-  "savedAt": "2026-03-27T02:23:38.081Z"
+  "savedAt": "2026-03-27T02:23:39.681Z"
 }
