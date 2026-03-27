@@ -84,12 +84,26 @@
         "matchHistory": [],
         "joinDate": "2026-03-27",
         "peakRating": 1800
+      },
+      {
+        "id": 30,
+        "name": "박일영",
+        "rating": 1600,
+        "wins": 0,
+        "losses": 0,
+        "totalSetsWon": 0,
+        "totalSetsLost": 0,
+        "totalPointsWon": 0,
+        "totalPointsLost": 0,
+        "matchHistory": [],
+        "joinDate": "2026-03-27",
+        "peakRating": 1600
       }
     ],
     "matches": [],
-    "nextPlayerId": 30,
+    "nextPlayerId": 31,
     "nextMatchId": 1,
-    "lastUpdated": "2026-03-27T02:25:26.606Z"
+    "lastUpdated": "2026-03-27T02:25:39.993Z"
   },
   "admins": {
     "admins": [
@@ -120,5 +134,5 @@
       }
     ]
   },
-  "savedAt": "2026-03-27T02:25:26.606Z"
+  "savedAt": "2026-03-27T02:25:39.993Z"
 }
