@@ -28,12 +28,26 @@
         "matchHistory": [],
         "joinDate": "2026-03-27",
         "peakRating": 2200
+      },
+      {
+        "id": 26,
+        "name": "김이태감독님(쉐이크)",
+        "rating": 2000,
+        "wins": 0,
+        "losses": 0,
+        "totalSetsWon": 0,
+        "totalSetsLost": 0,
+        "totalPointsWon": 0,
+        "totalPointsLost": 0,
+        "matchHistory": [],
+        "joinDate": "2026-03-27",
+        "peakRating": 2000
       }
     ],
     "matches": [],
-    "nextPlayerId": 26,
+    "nextPlayerId": 27,
     "nextMatchId": 1,
-    "lastUpdated": "2026-03-27T02:24:27.310Z"
+    "lastUpdated": "2026-03-27T02:24:47.774Z"
   },
   "admins": {
     "admins": [
@@ -64,5 +78,5 @@
       }
     ]
   },
-  "savedAt": "2026-03-27T02:24:27.310Z"
+  "savedAt": "2026-03-27T02:24:47.774Z"
 }
