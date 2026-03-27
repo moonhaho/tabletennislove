@@ -294,12 +294,26 @@
         "matchHistory": [],
         "joinDate": "2026-03-27",
         "peakRating": 700
+      },
+      {
+        "id": 45,
+        "name": "장희정",
+        "rating": 650,
+        "wins": 0,
+        "losses": 0,
+        "totalSetsWon": 0,
+        "totalSetsLost": 0,
+        "totalPointsWon": 0,
+        "totalPointsLost": 0,
+        "matchHistory": [],
+        "joinDate": "2026-03-27",
+        "peakRating": 650
       }
     ],
     "matches": [],
-    "nextPlayerId": 45,
+    "nextPlayerId": 46,
     "nextMatchId": 1,
-    "lastUpdated": "2026-03-27T02:28:25.102Z"
+    "lastUpdated": "2026-03-27T02:28:36.714Z"
   },
   "admins": {
     "admins": [
@@ -330,5 +344,5 @@
       }
     ]
   },
-  "savedAt": "2026-03-27T02:28:25.102Z"
+  "savedAt": "2026-03-27T02:28:36.714Z"
 }
