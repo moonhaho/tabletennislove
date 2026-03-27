@@ -1,0 +1,19 @@
+{
+  "data": {
+    "players": [],
+    "matches": [],
+    "nextPlayerId": 1,
+    "nextMatchId": 1,
+    "lastUpdated": null
+  },
+  "admins": {
+    "admins": [
+      {
+        "name": "문학배",
+        "email": "moonhaho@gmail.com",
+        "role": "운영자"
+      }
+    ]
+  },
+  "savedAt": "2026-03-27T00:27:18.448Z"
+}
