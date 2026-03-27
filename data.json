@@ -210,12 +210,26 @@
         "matchHistory": [],
         "joinDate": "2026-03-27",
         "peakRating": 1000
+      },
+      {
+        "id": 39,
+        "name": "황정문",
+        "rating": 850,
+        "wins": 0,
+        "losses": 0,
+        "totalSetsWon": 0,
+        "totalSetsLost": 0,
+        "totalPointsWon": 0,
+        "totalPointsLost": 0,
+        "matchHistory": [],
+        "joinDate": "2026-03-27",
+        "peakRating": 850
       }
     ],
     "matches": [],
-    "nextPlayerId": 39,
+    "nextPlayerId": 40,
     "nextMatchId": 1,
-    "lastUpdated": "2026-03-27T02:27:15.474Z"
+    "lastUpdated": "2026-03-27T02:27:27.624Z"
   },
   "admins": {
     "admins": [
@@ -246,5 +260,5 @@
       }
     ]
   },
-  "savedAt": "2026-03-27T02:27:15.474Z"
+  "savedAt": "2026-03-27T02:27:27.624Z"
 }
