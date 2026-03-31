@@ -18,70 +18,402 @@
       {
         "id": 2,
         "name": "Timothy",
-        "rating": 2100,
-        "wins": 0,
+        "rating": 2163,
+        "wins": 5,
         "losses": 0,
-        "totalSetsWon": 0,
+        "totalSetsWon": 15,
         "totalSetsLost": 0,
-        "totalPointsWon": 0,
-        "totalPointsLost": 0,
-        "matchHistory": [],
+        "totalPointsWon": 167,
+        "totalPointsLost": 69,
+        "matchHistory": [
+          {
+            "matchId": 16,
+            "opponent": "Ilyoung Park",
+            "result": "W",
+            "change": "-1",
+            "ratingAfter": 2163,
+            "setScore": "3-0",
+            "date": "2026-03-31",
+            "handicap": 7
+          },
+          {
+            "matchId": 13,
+            "opponent": "David Oh",
+            "result": "W",
+            "change": "+3",
+            "ratingAfter": 2164,
+            "setScore": "3-0",
+            "date": "2026-03-31",
+            "handicap": 9
+          },
+          {
+            "matchId": 11,
+            "opponent": "Head Coach. E.T. Kim",
+            "result": "W",
+            "change": "+11",
+            "ratingAfter": 2161,
+            "setScore": "3-0",
+            "date": "2026-03-31",
+            "handicap": 3
+          },
+          {
+            "matchId": 5,
+            "opponent": "Coach Michael Sim",
+            "result": "W",
+            "change": "+21",
+            "ratingAfter": 2150,
+            "setScore": "3-0",
+            "date": "2026-03-31",
+            "handicap": 4
+          },
+          {
+            "matchId": 3,
+            "opponent": "Coach. Youngsan Ahn",
+            "result": "W",
+            "change": "+29",
+            "ratingAfter": 2129,
+            "setScore": "3-0",
+            "date": "2026-03-31",
+            "handicap": 1
+          }
+        ],
         "joinDate": "2026-03-27",
-        "peakRating": 2100
+        "peakRating": 2164
       },
       {
         "id": 3,
         "name": "Head Coach. E.T. Kim",
-        "rating": 2000,
-        "wins": 0,
-        "losses": 0,
-        "totalSetsWon": 0,
-        "totalSetsLost": 0,
-        "totalPointsWon": 0,
-        "totalPointsLost": 0,
-        "matchHistory": [],
+        "rating": 1997,
+        "wins": 7,
+        "losses": 1,
+        "totalSetsWon": 21,
+        "totalSetsLost": 6,
+        "totalPointsWon": 277,
+        "totalPointsLost": 167,
+        "matchHistory": [
+          {
+            "matchId": 34,
+            "opponent": "S.H. Kang",
+            "result": "W",
+            "change": "+3",
+            "ratingAfter": 1997,
+            "setScore": "3-0",
+            "date": "2026-03-31",
+            "handicap": 9
+          },
+          {
+            "matchId": 26,
+            "opponent": "David Oh",
+            "result": "W",
+            "change": "-5",
+            "ratingAfter": 1994,
+            "setScore": "3-0",
+            "date": "2026-03-31",
+            "handicap": 9
+          },
+          {
+            "matchId": 24,
+            "opponent": "Coach. Youngsan Ahn",
+            "result": "W",
+            "change": "+10",
+            "ratingAfter": 1999,
+            "setScore": "3-1",
+            "date": "2026-03-31"
+          },
+          {
+            "matchId": 21,
+            "opponent": "Jeongmun Hwang",
+            "result": "W",
+            "change": "+3",
+            "ratingAfter": 1989,
+            "setScore": "3-0",
+            "date": "2026-03-31",
+            "handicap": 9
+          },
+          {
+            "matchId": 14,
+            "opponent": "D.C. Choi",
+            "result": "W",
+            "change": "-2",
+            "ratingAfter": 1986,
+            "setScore": "3-0",
+            "date": "2026-03-31",
+            "handicap": 9
+          },
+          {
+            "matchId": 12,
+            "opponent": "Hakbae Moon",
+            "result": "W",
+            "change": "+3",
+            "ratingAfter": 1988,
+            "setScore": "3-0",
+            "date": "2026-03-31",
+            "handicap": 3
+          },
+          {
+            "matchId": 11,
+            "opponent": "Timothy",
+            "result": "L",
+            "change": "-13",
+            "ratingAfter": 1985,
+            "setScore": "0-3",
+            "date": "2026-03-31",
+            "handicap": 3
+          },
+          {
+            "matchId": 2,
+            "opponent": "Coach Michael Sim",
+            "result": "W",
+            "change": "-2",
+            "ratingAfter": 1998,
+            "setScore": "3-2",
+            "date": "2026-03-31",
+            "handicap": 3
+          }
+        ],
         "joinDate": "2026-03-27",
         "peakRating": 2000
       },
       {
         "id": 4,
         "name": "Coach. Youngsan Ahn",
-        "rating": 2000,
-        "wins": 0,
-        "losses": 0,
-        "totalSetsWon": 0,
-        "totalSetsLost": 0,
-        "totalPointsWon": 0,
-        "totalPointsLost": 0,
-        "matchHistory": [],
+        "rating": 1990,
+        "wins": 7,
+        "losses": 2,
+        "totalSetsWon": 22,
+        "totalSetsLost": 7,
+        "totalPointsWon": 512,
+        "totalPointsLost": 167,
+        "matchHistory": [
+          {
+            "matchId": 33,
+            "opponent": "Ilyoung Park",
+            "result": "W",
+            "change": "+6",
+            "ratingAfter": 1990,
+            "setScore": "3-0",
+            "date": "2026-03-31",
+            "handicap": 5
+          },
+          {
+            "matchId": 30,
+            "opponent": "S.H. Kang",
+            "result": "W",
+            "change": "+11",
+            "ratingAfter": 1984,
+            "setScore": "3-0",
+            "date": "2026-03-31",
+            "handicap": 9
+          },
+          {
+            "matchId": 24,
+            "opponent": "Head Coach. E.T. Kim",
+            "result": "L",
+            "change": "-10",
+            "ratingAfter": 1973,
+            "setScore": "1-3",
+            "date": "2026-03-31"
+          },
+          {
+            "matchId": 22,
+            "opponent": "D.C. Choi",
+            "result": "W",
+            "change": "+1",
+            "ratingAfter": 1983,
+            "setScore": "3-0",
+            "date": "2026-03-31",
+            "handicap": 9
+          },
+          {
+            "matchId": 20,
+            "opponent": "David Oh",
+            "result": "W",
+            "change": "-8",
+            "ratingAfter": 1982,
+            "setScore": "3-0",
+            "date": "2026-03-31",
+            "handicap": 9
+          },
+          {
+            "matchId": 17,
+            "opponent": "Jeongmun Hwang",
+            "result": "W",
+            "change": "+3",
+            "ratingAfter": 1990,
+            "setScore": "3-0",
+            "date": "2026-03-31",
+            "handicap": 9
+          },
+          {
+            "matchId": 15,
+            "opponent": "Coach Michael Sim",
+            "result": "W",
+            "change": "+7",
+            "ratingAfter": 1987,
+            "setScore": "3-1",
+            "date": "2026-03-31",
+            "handicap": 4
+          },
+          {
+            "matchId": 8,
+            "opponent": "Hakbae Moon",
+            "result": "W",
+            "change": "+8",
+            "ratingAfter": 1980,
+            "setScore": "3-0",
+            "date": "2026-03-31",
+            "handicap": 3
+          },
+          {
+            "matchId": 3,
+            "opponent": "Timothy",
+            "result": "L",
+            "change": "-28",
+            "ratingAfter": 1972,
+            "setScore": "0-3",
+            "date": "2026-03-31",
+            "handicap": 1
+          }
+        ],
         "joinDate": "2026-03-27",
         "peakRating": 2000
       },
       {
         "id": 5,
         "name": "Coach Michael Sim",
-        "rating": 1800,
-        "wins": 0,
-        "losses": 0,
-        "totalSetsWon": 0,
-        "totalSetsLost": 0,
-        "totalPointsWon": 0,
-        "totalPointsLost": 0,
-        "matchHistory": [],
+        "rating": 1705,
+        "wins": 3,
+        "losses": 4,
+        "totalSetsWon": 13,
+        "totalSetsLost": 12,
+        "totalPointsWon": 216,
+        "totalPointsLost": 215,
+        "matchHistory": [
+          {
+            "matchId": 31,
+            "opponent": "Jeongmun Hwang",
+            "result": "W",
+            "change": "-2",
+            "ratingAfter": 1705,
+            "setScore": "3-0",
+            "date": "2026-03-31",
+            "handicap": 9
+          },
+          {
+            "matchId": 23,
+            "opponent": "Ilyoung Park",
+            "result": "L",
+            "change": "-12",
+            "ratingAfter": 1707,
+            "setScore": "1-3",
+            "date": "2026-03-31",
+            "handicap": 1
+          },
+          {
+            "matchId": 15,
+            "opponent": "Coach. Youngsan Ahn",
+            "result": "L",
+            "change": "-6",
+            "ratingAfter": 1719,
+            "setScore": "1-3",
+            "date": "2026-03-31",
+            "handicap": 4
+          },
+          {
+            "matchId": 10,
+            "opponent": "David Oh",
+            "result": "W",
+            "change": "-24",
+            "ratingAfter": 1725,
+            "setScore": "3-0",
+            "date": "2026-03-31",
+            "handicap": 8
+          },
+          {
+            "matchId": 6,
+            "opponent": "S.H. Kang",
+            "result": "W",
+            "change": "-29",
+            "ratingAfter": 1749,
+            "setScore": "3-0",
+            "date": "2026-03-31",
+            "handicap": 9
+          },
+          {
+            "matchId": 5,
+            "opponent": "Timothy",
+            "result": "L",
+            "change": "-26",
+            "ratingAfter": 1778,
+            "setScore": "0-3",
+            "date": "2026-03-31",
+            "handicap": 4
+          },
+          {
+            "matchId": 2,
+            "opponent": "Head Coach. E.T. Kim",
+            "result": "L",
+            "change": "+4",
+            "ratingAfter": 1804,
+            "setScore": "2-3",
+            "date": "2026-03-31",
+            "handicap": 3
+          }
+        ],
         "joinDate": "2026-03-27",
-        "peakRating": 1800
+        "peakRating": 1804
       },
       {
         "id": 6,
         "name": "Hakbae Moon",
-        "rating": 1798,
-        "wins": 0,
-        "losses": 1,
-        "totalSetsWon": 0,
-        "totalSetsLost": 3,
-        "totalPointsWon": 26,
-        "totalPointsLost": 33,
+        "rating": 1787,
+        "wins": 2,
+        "losses": 3,
+        "totalSetsWon": 6,
+        "totalSetsLost": 9,
+        "totalPointsWon": 138,
+        "totalPointsLost": 339,
         "matchHistory": [
+          {
+            "matchId": 28,
+            "opponent": "D.C. Choi",
+            "result": "W",
+            "change": "-8",
+            "ratingAfter": 1787,
+            "setScore": "3-0",
+            "date": "2026-03-31",
+            "handicap": 7
+          },
+          {
+            "matchId": 12,
+            "opponent": "Head Coach. E.T. Kim",
+            "result": "L",
+            "change": "-2",
+            "ratingAfter": 1795,
+            "setScore": "0-3",
+            "date": "2026-03-31",
+            "handicap": 3
+          },
+          {
+            "matchId": 9,
+            "opponent": "Jeongmun Hwang",
+            "result": "W",
+            "change": "+6",
+            "ratingAfter": 1797,
+            "setScore": "3-0",
+            "date": "2026-03-31",
+            "handicap": 9
+          },
+          {
+            "matchId": 8,
+            "opponent": "Coach. Youngsan Ahn",
+            "result": "L",
+            "change": "-7",
+            "ratingAfter": 1791,
+            "setScore": "0-3",
+            "date": "2026-03-31",
+            "handicap": 3
+          },
           {
             "matchId": 1,
             "opponent": "Sunghyeon Moon",
@@ -98,16 +430,77 @@
       {
         "id": 7,
         "name": "Ilyoung Park",
-        "rating": 1600,
-        "wins": 0,
-        "losses": 0,
-        "totalSetsWon": 0,
-        "totalSetsLost": 0,
-        "totalPointsWon": 0,
-        "totalPointsLost": 0,
-        "matchHistory": [],
+        "rating": 1622,
+        "wins": 4,
+        "losses": 2,
+        "totalSetsWon": 12,
+        "totalSetsLost": 7,
+        "totalPointsWon": 175,
+        "totalPointsLost": 136,
+        "matchHistory": [
+          {
+            "matchId": 33,
+            "opponent": "Coach. Youngsan Ahn",
+            "result": "L",
+            "change": "-5",
+            "ratingAfter": 1622,
+            "setScore": "0-3",
+            "date": "2026-03-31",
+            "handicap": 5
+          },
+          {
+            "matchId": 29,
+            "opponent": "David Oh",
+            "result": "W",
+            "change": "+8",
+            "ratingAfter": 1627,
+            "setScore": "3-0",
+            "date": "2026-03-31",
+            "handicap": 6
+          },
+          {
+            "matchId": 27,
+            "opponent": "S.H. Kang",
+            "result": "W",
+            "change": "+11",
+            "ratingAfter": 1619,
+            "setScore": "3-0",
+            "date": "2026-03-31",
+            "handicap": 9
+          },
+          {
+            "matchId": 23,
+            "opponent": "Coach Michael Sim",
+            "result": "W",
+            "change": "+13",
+            "ratingAfter": 1608,
+            "setScore": "3-1",
+            "date": "2026-03-31",
+            "handicap": 1
+          },
+          {
+            "matchId": 16,
+            "opponent": "Timothy",
+            "result": "L",
+            "change": "+3",
+            "ratingAfter": 1595,
+            "setScore": "0-3",
+            "date": "2026-03-31",
+            "handicap": 7
+          },
+          {
+            "matchId": 7,
+            "opponent": "D.C. Choi",
+            "result": "W",
+            "change": "-8",
+            "ratingAfter": 1592,
+            "setScore": "3-0",
+            "date": "2026-03-31",
+            "handicap": 6
+          }
+        ],
         "joinDate": "2026-03-27",
-        "peakRating": 1600
+        "peakRating": 1627
       },
       {
         "id": 8,
@@ -178,30 +571,172 @@
       {
         "id": 12,
         "name": "D.C. Choi",
-        "rating": 1100,
-        "wins": 0,
-        "losses": 0,
-        "totalSetsWon": 0,
-        "totalSetsLost": 0,
-        "totalPointsWon": 0,
-        "totalPointsLost": 0,
-        "matchHistory": [],
+        "rating": 1191,
+        "wins": 2,
+        "losses": 5,
+        "totalSetsWon": 8,
+        "totalSetsLost": 15,
+        "totalPointsWon": 167,
+        "totalPointsLost": 212,
+        "matchHistory": [
+          {
+            "matchId": 32,
+            "opponent": "David Oh",
+            "result": "L",
+            "change": "-7",
+            "ratingAfter": 1191,
+            "setScore": "2-3",
+            "date": "2026-03-31",
+            "handicap": 1
+          },
+          {
+            "matchId": 28,
+            "opponent": "Hakbae Moon",
+            "result": "L",
+            "change": "+14",
+            "ratingAfter": 1198,
+            "setScore": "0-3",
+            "date": "2026-03-31",
+            "handicap": 7
+          },
+          {
+            "matchId": 22,
+            "opponent": "Coach. Youngsan Ahn",
+            "result": "L",
+            "change": "+2",
+            "ratingAfter": 1184,
+            "setScore": "0-3",
+            "date": "2026-03-31",
+            "handicap": 9
+          },
+          {
+            "matchId": 19,
+            "opponent": "S.H. Kang",
+            "result": "W",
+            "change": "+31",
+            "ratingAfter": 1182,
+            "setScore": "3-0",
+            "date": "2026-03-31",
+            "handicap": 5
+          },
+          {
+            "matchId": 14,
+            "opponent": "Head Coach. E.T. Kim",
+            "result": "L",
+            "change": "+6",
+            "ratingAfter": 1151,
+            "setScore": "0-3",
+            "date": "2026-03-31",
+            "handicap": 9
+          },
+          {
+            "matchId": 7,
+            "opponent": "Ilyoung Park",
+            "result": "L",
+            "change": "+14",
+            "ratingAfter": 1145,
+            "setScore": "0-3",
+            "date": "2026-03-31",
+            "handicap": 6
+          },
+          {
+            "matchId": 4,
+            "opponent": "Jeongmun Hwang",
+            "result": "W",
+            "change": "+31",
+            "ratingAfter": 1131,
+            "setScore": "3-0",
+            "date": "2026-03-31",
+            "handicap": 3
+          }
+        ],
         "joinDate": "2026-03-27",
-        "peakRating": 1100
+        "peakRating": 1198
       },
       {
         "id": 13,
         "name": "David Oh",
-        "rating": 1000,
-        "wins": 0,
-        "losses": 0,
-        "totalSetsWon": 0,
-        "totalSetsLost": 0,
-        "totalPointsWon": 0,
-        "totalPointsLost": 0,
-        "matchHistory": [],
+        "rating": 1153,
+        "wins": 2,
+        "losses": 5,
+        "totalSetsWon": 6,
+        "totalSetsLost": 17,
+        "totalPointsWon": 142,
+        "totalPointsLost": 223,
+        "matchHistory": [
+          {
+            "matchId": 32,
+            "opponent": "D.C. Choi",
+            "result": "W",
+            "change": "+8",
+            "ratingAfter": 1153,
+            "setScore": "3-2",
+            "date": "2026-03-31",
+            "handicap": 1
+          },
+          {
+            "matchId": 29,
+            "opponent": "Ilyoung Park",
+            "result": "L",
+            "change": "-10",
+            "ratingAfter": 1145,
+            "setScore": "0-3",
+            "date": "2026-03-31",
+            "handicap": 6
+          },
+          {
+            "matchId": 26,
+            "opponent": "Head Coach. E.T. Kim",
+            "result": "L",
+            "change": "+10",
+            "ratingAfter": 1155,
+            "setScore": "0-3",
+            "date": "2026-03-31",
+            "handicap": 9
+          },
+          {
+            "matchId": 20,
+            "opponent": "Coach. Youngsan Ahn",
+            "result": "L",
+            "change": "+14",
+            "ratingAfter": 1145,
+            "setScore": "0-3",
+            "date": "2026-03-31",
+            "handicap": 9
+          },
+          {
+            "matchId": 18,
+            "opponent": "S.H. Kang",
+            "result": "W",
+            "change": "+95",
+            "ratingAfter": 1131,
+            "setScore": "3-0",
+            "date": "2026-03-31",
+            "handicap": 1
+          },
+          {
+            "matchId": 13,
+            "opponent": "Timothy",
+            "result": "L",
+            "change": "-2",
+            "ratingAfter": 1036,
+            "setScore": "0-3",
+            "date": "2026-03-31",
+            "handicap": 9
+          },
+          {
+            "matchId": 10,
+            "opponent": "Coach Michael Sim",
+            "result": "L",
+            "change": "+38",
+            "ratingAfter": 1038,
+            "setScore": "0-3",
+            "date": "2026-03-31",
+            "handicap": 8
+          }
+        ],
         "joinDate": "2026-03-27",
-        "peakRating": 1000
+        "peakRating": 1155
       },
       {
         "id": 14,
@@ -234,14 +769,75 @@
       {
         "id": 16,
         "name": "Jeongmun Hwang",
-        "rating": 850,
+        "rating": 804,
         "wins": 0,
-        "losses": 0,
-        "totalSetsWon": 0,
-        "totalSetsLost": 0,
-        "totalPointsWon": 0,
-        "totalPointsLost": 0,
-        "matchHistory": [],
+        "losses": 6,
+        "totalSetsWon": 2,
+        "totalSetsLost": 18,
+        "totalPointsWon": 85,
+        "totalPointsLost": 216,
+        "matchHistory": [
+          {
+            "matchId": 31,
+            "opponent": "Coach Michael Sim",
+            "result": "L",
+            "change": "+9",
+            "ratingAfter": 804,
+            "setScore": "0-3",
+            "date": "2026-03-31",
+            "handicap": 9
+          },
+          {
+            "matchId": 25,
+            "opponent": "S.H. Kang",
+            "result": "L",
+            "change": "-5",
+            "ratingAfter": 795,
+            "setScore": "2-3",
+            "date": "2026-03-31",
+            "handicap": 1
+          },
+          {
+            "matchId": 21,
+            "opponent": "Head Coach. E.T. Kim",
+            "result": "L",
+            "change": "-2",
+            "ratingAfter": 800,
+            "setScore": "0-3",
+            "date": "2026-03-31",
+            "handicap": 9
+          },
+          {
+            "matchId": 17,
+            "opponent": "Coach. Youngsan Ahn",
+            "result": "L",
+            "change": "-2",
+            "ratingAfter": 802,
+            "setScore": "0-3",
+            "date": "2026-03-31",
+            "handicap": 9
+          },
+          {
+            "matchId": 9,
+            "opponent": "Hakbae Moon",
+            "result": "L",
+            "change": "-7",
+            "ratingAfter": 804,
+            "setScore": "0-3",
+            "date": "2026-03-31",
+            "handicap": 9
+          },
+          {
+            "matchId": 4,
+            "opponent": "D.C. Choi",
+            "result": "L",
+            "change": "-39",
+            "ratingAfter": 811,
+            "setScore": "0-3",
+            "date": "2026-03-31",
+            "handicap": 3
+          }
+        ],
         "joinDate": "2026-03-27",
         "peakRating": 850
       },
@@ -262,16 +858,87 @@
       {
         "id": 18,
         "name": "S.H. Kang",
-        "rating": 850,
-        "wins": 0,
-        "losses": 0,
-        "totalSetsWon": 0,
-        "totalSetsLost": 0,
-        "totalPointsWon": 0,
-        "totalPointsLost": 0,
-        "matchHistory": [],
+        "rating": 716,
+        "wins": 1,
+        "losses": 6,
+        "totalSetsWon": 3,
+        "totalSetsLost": 20,
+        "totalPointsWon": 99,
+        "totalPointsLost": 241,
+        "matchHistory": [
+          {
+            "matchId": 34,
+            "opponent": "Head Coach. E.T. Kim",
+            "result": "L",
+            "change": "-2",
+            "ratingAfter": 716,
+            "setScore": "0-3",
+            "date": "2026-03-31",
+            "handicap": 9
+          },
+          {
+            "matchId": 30,
+            "opponent": "Coach. Youngsan Ahn",
+            "result": "L",
+            "change": "-18",
+            "ratingAfter": 718,
+            "setScore": "0-3",
+            "date": "2026-03-31",
+            "handicap": 9
+          },
+          {
+            "matchId": 27,
+            "opponent": "Ilyoung Park",
+            "result": "L",
+            "change": "-18",
+            "ratingAfter": 736,
+            "setScore": "0-3",
+            "date": "2026-03-31",
+            "handicap": 9
+          },
+          {
+            "matchId": 25,
+            "opponent": "Jeongmun Hwang",
+            "result": "W",
+            "change": "+6",
+            "ratingAfter": 754,
+            "setScore": "3-2",
+            "date": "2026-03-31",
+            "handicap": 1
+          },
+          {
+            "matchId": 19,
+            "opponent": "D.C. Choi",
+            "result": "L",
+            "change": "-39",
+            "ratingAfter": 748,
+            "setScore": "0-3",
+            "date": "2026-03-31",
+            "handicap": 5
+          },
+          {
+            "matchId": 18,
+            "opponent": "David Oh",
+            "result": "L",
+            "change": "-125",
+            "ratingAfter": 787,
+            "setScore": "0-3",
+            "date": "2026-03-31",
+            "handicap": 1
+          },
+          {
+            "matchId": 6,
+            "opponent": "Coach Michael Sim",
+            "result": "L",
+            "change": "+62",
+            "ratingAfter": 912,
+            "setScore": "0-3",
+            "date": "2026-03-31",
+            "handicap": 9
+          }
+        ],
         "joinDate": "2026-03-27",
-        "peakRating": 850
+        "peakRating": 912
       },
       {
         "id": 19,
@@ -360,6 +1027,1231 @@
     ],
     "matches": [
       {
+        "id": 34,
+        "winnerId": 3,
+        "loserId": 18,
+        "winnerName": "Head Coach. E.T. Kim",
+        "loserName": "S.H. Kang",
+        "winnerRatingBefore": 1994,
+        "loserRatingBefore": 718,
+        "winnerRatingAfter": 1997,
+        "loserRatingAfter": 716,
+        "setScores": [
+          {
+            "a": 11,
+            "b": 3
+          },
+          {
+            "a": 11,
+            "b": 1
+          },
+          {
+            "a": 11,
+            "b": 2
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 33,
+        "loserPoints": 6,
+        "handicap": 9,
+        "isHandicap": true,
+        "playerAChange": 3,
+        "playerBChange": -2,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-03-31",
+        "time": "오후 11:21"
+      },
+      {
+        "id": 33,
+        "winnerId": 4,
+        "loserId": 7,
+        "winnerName": "Coach. Youngsan Ahn",
+        "loserName": "Ilyoung Park",
+        "winnerRatingBefore": 1984,
+        "loserRatingBefore": 1627,
+        "winnerRatingAfter": 1990,
+        "loserRatingAfter": 1622,
+        "setScores": [
+          {
+            "a": 11,
+            "b": 9
+          },
+          {
+            "a": 11,
+            "b": 5
+          },
+          {
+            "a": 11,
+            "b": 3
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 33,
+        "loserPoints": 17,
+        "handicap": 5,
+        "isHandicap": true,
+        "playerAChange": 6,
+        "playerBChange": -5,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-03-31",
+        "time": "오후 11:21"
+      },
+      {
+        "id": 32,
+        "winnerId": 13,
+        "loserId": 12,
+        "winnerName": "David Oh",
+        "loserName": "D.C. Choi",
+        "winnerRatingBefore": 1145,
+        "loserRatingBefore": 1198,
+        "winnerRatingAfter": 1153,
+        "loserRatingAfter": 1191,
+        "setScores": [
+          {
+            "a": 9,
+            "b": 11
+          },
+          {
+            "a": 8,
+            "b": 11
+          },
+          {
+            "a": 12,
+            "b": 10
+          },
+          {
+            "a": 11,
+            "b": 9
+          },
+          {
+            "a": 12,
+            "b": 10
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 2,
+        "winnerPoints": 52,
+        "loserPoints": 51,
+        "handicap": 1,
+        "isHandicap": true,
+        "playerAChange": 8,
+        "playerBChange": -7,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-03-31",
+        "time": "오후 11:20"
+      },
+      {
+        "id": 31,
+        "winnerId": 5,
+        "loserId": 16,
+        "winnerName": "Coach Michael Sim",
+        "loserName": "Jeongmun Hwang",
+        "winnerRatingBefore": 1707,
+        "loserRatingBefore": 795,
+        "winnerRatingAfter": 1705,
+        "loserRatingAfter": 804,
+        "setScores": [
+          {
+            "a": 11,
+            "b": 2
+          },
+          {
+            "a": 11,
+            "b": 3
+          },
+          {
+            "a": 11,
+            "b": 3
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 33,
+        "loserPoints": 8,
+        "handicap": 9,
+        "isHandicap": true,
+        "playerAChange": -2,
+        "playerBChange": 9,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-03-31",
+        "time": "오후 11:20"
+      },
+      {
+        "id": 30,
+        "winnerId": 4,
+        "loserId": 18,
+        "winnerName": "Coach. Youngsan Ahn",
+        "loserName": "S.H. Kang",
+        "winnerRatingBefore": 1973,
+        "loserRatingBefore": 736,
+        "winnerRatingAfter": 1984,
+        "loserRatingAfter": 718,
+        "setScores": [
+          {
+            "a": 11,
+            "b": 0
+          },
+          {
+            "a": 11,
+            "b": 2
+          },
+          {
+            "a": 11,
+            "b": 1
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 33,
+        "loserPoints": 3,
+        "handicap": 9,
+        "isHandicap": true,
+        "playerAChange": 11,
+        "playerBChange": -18,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-03-31",
+        "time": "오후 11:19"
+      },
+      {
+        "id": 29,
+        "winnerId": 7,
+        "loserId": 13,
+        "winnerName": "Ilyoung Park",
+        "loserName": "David Oh",
+        "winnerRatingBefore": 1619,
+        "loserRatingBefore": 1155,
+        "winnerRatingAfter": 1627,
+        "loserRatingAfter": 1145,
+        "setScores": [
+          {
+            "a": 7,
+            "b": 11
+          },
+          {
+            "a": 3,
+            "b": 11
+          },
+          {
+            "a": 3,
+            "b": 11
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 33,
+        "loserPoints": 13,
+        "handicap": 6,
+        "isHandicap": true,
+        "playerAChange": -10,
+        "playerBChange": 8,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-03-31",
+        "time": "오후 11:19"
+      },
+      {
+        "id": 28,
+        "winnerId": 6,
+        "loserId": 12,
+        "winnerName": "Hakbae Moon",
+        "loserName": "D.C. Choi",
+        "winnerRatingBefore": 1795,
+        "loserRatingBefore": 1184,
+        "winnerRatingAfter": 1787,
+        "loserRatingAfter": 1198,
+        "setScores": [
+          {
+            "a": 11,
+            "b": 9
+          },
+          {
+            "a": 11,
+            "b": 5
+          },
+          {
+            "a": 11,
+            "b": 2
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 33,
+        "loserPoints": 16,
+        "handicap": 7,
+        "isHandicap": true,
+        "playerAChange": -8,
+        "playerBChange": 14,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-03-31",
+        "time": "오후 11:18"
+      },
+      {
+        "id": 27,
+        "winnerId": 7,
+        "loserId": 18,
+        "winnerName": "Ilyoung Park",
+        "loserName": "S.H. Kang",
+        "winnerRatingBefore": 1608,
+        "loserRatingBefore": 754,
+        "winnerRatingAfter": 1619,
+        "loserRatingAfter": 736,
+        "setScores": [
+          {
+            "a": 11,
+            "b": 0
+          },
+          {
+            "a": 11,
+            "b": 2
+          },
+          {
+            "a": 11,
+            "b": 1
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 33,
+        "loserPoints": 3,
+        "handicap": 9,
+        "isHandicap": true,
+        "playerAChange": 11,
+        "playerBChange": -18,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-03-31",
+        "time": "오후 11:18"
+      },
+      {
+        "id": 26,
+        "winnerId": 3,
+        "loserId": 13,
+        "winnerName": "Head Coach. E.T. Kim",
+        "loserName": "David Oh",
+        "winnerRatingBefore": 1999,
+        "loserRatingBefore": 1145,
+        "winnerRatingAfter": 1994,
+        "loserRatingAfter": 1155,
+        "setScores": [
+          {
+            "a": 11,
+            "b": 3
+          },
+          {
+            "a": 11,
+            "b": 5
+          },
+          {
+            "a": 11,
+            "b": 1
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 33,
+        "loserPoints": 9,
+        "handicap": 9,
+        "isHandicap": true,
+        "playerAChange": -5,
+        "playerBChange": 10,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-03-31",
+        "time": "오후 11:17"
+      },
+      {
+        "id": 25,
+        "winnerId": 18,
+        "loserId": 16,
+        "winnerName": "S.H. Kang",
+        "loserName": "Jeongmun Hwang",
+        "winnerRatingBefore": 748,
+        "loserRatingBefore": 800,
+        "winnerRatingAfter": 754,
+        "loserRatingAfter": 795,
+        "setScores": [
+          {
+            "a": 7,
+            "b": 11
+          },
+          {
+            "a": 11,
+            "b": 7
+          },
+          {
+            "a": 5,
+            "b": 11
+          },
+          {
+            "a": 13,
+            "b": 11
+          },
+          {
+            "a": 7,
+            "b": 11
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 2,
+        "winnerPoints": 51,
+        "loserPoints": 43,
+        "handicap": 1,
+        "isHandicap": true,
+        "playerAChange": -5,
+        "playerBChange": 6,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-03-31",
+        "time": "오후 11:17"
+      },
+      {
+        "id": 24,
+        "winnerId": 3,
+        "loserId": 4,
+        "winnerName": "Head Coach. E.T. Kim",
+        "loserName": "Coach. Youngsan Ahn",
+        "winnerRatingBefore": 1989,
+        "loserRatingBefore": 1983,
+        "winnerRatingAfter": 1999,
+        "loserRatingAfter": 1973,
+        "pointsExchanged": 10,
+        "setScores": [
+          {
+            "a": 11,
+            "b": 7
+          },
+          {
+            "a": 11,
+            "b": 9
+          },
+          {
+            "a": 10,
+            "b": 12
+          },
+          {
+            "a": 11,
+            "b": 7
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 1,
+        "winnerPoints": 43,
+        "loserPoints": 35,
+        "setMultiplier": 1.1,
+        "pointBonus": 1,
+        "handicap": 0,
+        "isHandicap": false,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-03-31",
+        "time": "오후 11:16"
+      },
+      {
+        "id": 23,
+        "winnerId": 7,
+        "loserId": 5,
+        "winnerName": "Ilyoung Park",
+        "loserName": "Coach Michael Sim",
+        "winnerRatingBefore": 1595,
+        "loserRatingBefore": 1719,
+        "winnerRatingAfter": 1608,
+        "loserRatingAfter": 1707,
+        "setScores": [
+          {
+            "a": 12,
+            "b": 10
+          },
+          {
+            "a": 6,
+            "b": 11
+          },
+          {
+            "a": 6,
+            "b": 11
+          },
+          {
+            "a": 11,
+            "b": 13
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 1,
+        "winnerPoints": 45,
+        "loserPoints": 35,
+        "handicap": 1,
+        "isHandicap": true,
+        "playerAChange": -12,
+        "playerBChange": 13,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-03-31",
+        "time": "오후 11:16"
+      },
+      {
+        "id": 22,
+        "winnerId": 4,
+        "loserId": 12,
+        "winnerName": "Coach. Youngsan Ahn",
+        "loserName": "D.C. Choi",
+        "winnerRatingBefore": 1982,
+        "loserRatingBefore": 1182,
+        "winnerRatingAfter": 1983,
+        "loserRatingAfter": 1184,
+        "setScores": [
+          {
+            "a": 4,
+            "b": 11
+          },
+          {
+            "a": 1,
+            "b": 11
+          },
+          {
+            "a": 2,
+            "b": 11
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 33,
+        "loserPoints": 7,
+        "handicap": 9,
+        "isHandicap": true,
+        "playerAChange": 2,
+        "playerBChange": 1,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-03-31",
+        "time": "오후 11:15"
+      },
+      {
+        "id": 21,
+        "winnerId": 3,
+        "loserId": 16,
+        "winnerName": "Head Coach. E.T. Kim",
+        "loserName": "Jeongmun Hwang",
+        "winnerRatingBefore": 1986,
+        "loserRatingBefore": 802,
+        "winnerRatingAfter": 1989,
+        "loserRatingAfter": 800,
+        "setScores": [
+          {
+            "a": 11,
+            "b": 1
+          },
+          {
+            "a": 11,
+            "b": 1
+          },
+          {
+            "a": 11,
+            "b": 4
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 33,
+        "loserPoints": 6,
+        "handicap": 9,
+        "isHandicap": true,
+        "playerAChange": 3,
+        "playerBChange": -2,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-03-31",
+        "time": "오후 11:14"
+      },
+      {
+        "id": 20,
+        "winnerId": 4,
+        "loserId": 13,
+        "winnerName": "Coach. Youngsan Ahn",
+        "loserName": "David Oh",
+        "winnerRatingBefore": 1990,
+        "loserRatingBefore": 1131,
+        "winnerRatingAfter": 1982,
+        "loserRatingAfter": 1145,
+        "setScores": [
+          {
+            "a": 1,
+            "b": 11
+          },
+          {
+            "a": 3,
+            "b": 11
+          },
+          {
+            "a": 6,
+            "b": 11
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 33,
+        "loserPoints": 10,
+        "handicap": 9,
+        "isHandicap": true,
+        "playerAChange": 14,
+        "playerBChange": -8,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-03-31",
+        "time": "오후 11:14"
+      },
+      {
+        "id": 19,
+        "winnerId": 12,
+        "loserId": 18,
+        "winnerName": "D.C. Choi",
+        "loserName": "S.H. Kang",
+        "winnerRatingBefore": 1151,
+        "loserRatingBefore": 787,
+        "winnerRatingAfter": 1182,
+        "loserRatingAfter": 748,
+        "setScores": [
+          {
+            "a": 11,
+            "b": 4
+          },
+          {
+            "a": 11,
+            "b": 6
+          },
+          {
+            "a": 11,
+            "b": 1
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 33,
+        "loserPoints": 11,
+        "handicap": 5,
+        "isHandicap": true,
+        "playerAChange": 31,
+        "playerBChange": -39,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-03-31",
+        "time": "오후 11:13"
+      },
+      {
+        "id": 18,
+        "winnerId": 13,
+        "loserId": 18,
+        "winnerName": "David Oh",
+        "loserName": "S.H. Kang",
+        "winnerRatingBefore": 1036,
+        "loserRatingBefore": 912,
+        "winnerRatingAfter": 1131,
+        "loserRatingAfter": 787,
+        "setScores": [
+          {
+            "a": 11,
+            "b": 3
+          },
+          {
+            "a": 11,
+            "b": 3
+          },
+          {
+            "a": 11,
+            "b": 1
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 33,
+        "loserPoints": 7,
+        "handicap": 1,
+        "isHandicap": true,
+        "playerAChange": 95,
+        "playerBChange": -125,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-03-31",
+        "time": "오후 11:13"
+      },
+      {
+        "id": 17,
+        "winnerId": 4,
+        "loserId": 16,
+        "winnerName": "Coach. Youngsan Ahn",
+        "loserName": "Jeongmun Hwang",
+        "winnerRatingBefore": 1987,
+        "loserRatingBefore": 804,
+        "winnerRatingAfter": 1990,
+        "loserRatingAfter": 802,
+        "setScores": [
+          {
+            "a": 2,
+            "b": 11
+          },
+          {
+            "a": 1,
+            "b": 11
+          },
+          {
+            "a": 3,
+            "b": 11
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 33,
+        "loserPoints": 6,
+        "handicap": 9,
+        "isHandicap": true,
+        "playerAChange": -2,
+        "playerBChange": 3,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-03-31",
+        "time": "오후 11:12"
+      },
+      {
+        "id": 16,
+        "winnerId": 2,
+        "loserId": 7,
+        "winnerName": "Timothy",
+        "loserName": "Ilyoung Park",
+        "winnerRatingBefore": 2164,
+        "loserRatingBefore": 1592,
+        "winnerRatingAfter": 2163,
+        "loserRatingAfter": 1595,
+        "setScores": [
+          {
+            "a": 11,
+            "b": 5
+          },
+          {
+            "a": 11,
+            "b": 4
+          },
+          {
+            "a": 11,
+            "b": 5
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 33,
+        "loserPoints": 14,
+        "handicap": 7,
+        "isHandicap": true,
+        "playerAChange": -1,
+        "playerBChange": 3,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-03-31",
+        "time": "오후 11:12"
+      },
+      {
+        "id": 15,
+        "winnerId": 4,
+        "loserId": 5,
+        "winnerName": "Coach. Youngsan Ahn",
+        "loserName": "Coach Michael Sim",
+        "winnerRatingBefore": 1980,
+        "loserRatingBefore": 1725,
+        "winnerRatingAfter": 1987,
+        "loserRatingAfter": 1719,
+        "setScores": [
+          {
+            "a": 4,
+            "b": 11
+          },
+          {
+            "a": 12,
+            "b": 10
+          },
+          {
+            "a": 4,
+            "b": 11
+          },
+          {
+            "a": 6,
+            "b": 11
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 1,
+        "winnerPoints": 43,
+        "loserPoints": 26,
+        "handicap": 4,
+        "isHandicap": true,
+        "playerAChange": -6,
+        "playerBChange": 7,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-03-31",
+        "time": "오후 11:11"
+      },
+      {
+        "id": 14,
+        "winnerId": 3,
+        "loserId": 12,
+        "winnerName": "Head Coach. E.T. Kim",
+        "loserName": "D.C. Choi",
+        "winnerRatingBefore": 1988,
+        "loserRatingBefore": 1145,
+        "winnerRatingAfter": 1986,
+        "loserRatingAfter": 1151,
+        "setScores": [
+          {
+            "a": 4,
+            "b": 11
+          },
+          {
+            "a": 3,
+            "b": 11
+          },
+          {
+            "a": 1,
+            "b": 11
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 33,
+        "loserPoints": 8,
+        "handicap": 9,
+        "isHandicap": true,
+        "playerAChange": 6,
+        "playerBChange": -2,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-03-31",
+        "time": "오후 11:11"
+      },
+      {
+        "id": 13,
+        "winnerId": 2,
+        "loserId": 13,
+        "winnerName": "Timothy",
+        "loserName": "David Oh",
+        "winnerRatingBefore": 2161,
+        "loserRatingBefore": 1038,
+        "winnerRatingAfter": 2164,
+        "loserRatingAfter": 1036,
+        "setScores": [
+          {
+            "a": 2,
+            "b": 11
+          },
+          {
+            "a": 3,
+            "b": 11
+          },
+          {
+            "a": 1,
+            "b": 11
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 33,
+        "loserPoints": 6,
+        "handicap": 9,
+        "isHandicap": true,
+        "playerAChange": -2,
+        "playerBChange": 3,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-03-31",
+        "time": "오후 11:10"
+      },
+      {
+        "id": 12,
+        "winnerId": 3,
+        "loserId": 6,
+        "winnerName": "Head Coach. E.T. Kim",
+        "loserName": "Hakbae Moon",
+        "winnerRatingBefore": 1985,
+        "loserRatingBefore": 1797,
+        "winnerRatingAfter": 1988,
+        "loserRatingAfter": 1795,
+        "setScores": [
+          {
+            "a": 11,
+            "b": 6
+          },
+          {
+            "a": 11,
+            "b": 9
+          },
+          {
+            "a": 11,
+            "b": 9
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 33,
+        "loserPoints": 24,
+        "handicap": 3,
+        "isHandicap": true,
+        "playerAChange": 3,
+        "playerBChange": -2,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-03-31",
+        "time": "오후 11:10"
+      },
+      {
+        "id": 11,
+        "winnerId": 2,
+        "loserId": 3,
+        "winnerName": "Timothy",
+        "loserName": "Head Coach. E.T. Kim",
+        "winnerRatingBefore": 2150,
+        "loserRatingBefore": 1998,
+        "winnerRatingAfter": 2161,
+        "loserRatingAfter": 1985,
+        "setScores": [
+          {
+            "a": 11,
+            "b": 2
+          },
+          {
+            "a": 11,
+            "b": 7
+          },
+          {
+            "a": 13,
+            "b": 11
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 35,
+        "loserPoints": 20,
+        "handicap": 3,
+        "isHandicap": true,
+        "playerAChange": 11,
+        "playerBChange": -13,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-03-31",
+        "time": "오후 11:09"
+      },
+      {
+        "id": 10,
+        "winnerId": 5,
+        "loserId": 13,
+        "winnerName": "Coach Michael Sim",
+        "loserName": "David Oh",
+        "winnerRatingBefore": 1749,
+        "loserRatingBefore": 1000,
+        "winnerRatingAfter": 1725,
+        "loserRatingAfter": 1038,
+        "setScores": [
+          {
+            "a": 11,
+            "b": 5
+          },
+          {
+            "a": 11,
+            "b": 6
+          },
+          {
+            "a": 11,
+            "b": 8
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 33,
+        "loserPoints": 19,
+        "handicap": 8,
+        "isHandicap": true,
+        "playerAChange": -24,
+        "playerBChange": 38,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-03-31",
+        "time": "오후 11:09"
+      },
+      {
+        "id": 9,
+        "winnerId": 6,
+        "loserId": 16,
+        "winnerName": "Hakbae Moon",
+        "loserName": "Jeongmun Hwang",
+        "winnerRatingBefore": 1791,
+        "loserRatingBefore": 811,
+        "winnerRatingAfter": 1797,
+        "loserRatingAfter": 804,
+        "setScores": [
+          {
+            "a": 11,
+            "b": 2
+          },
+          {
+            "a": 11,
+            "b": 2
+          },
+          {
+            "a": 11,
+            "b": 1
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 33,
+        "loserPoints": 5,
+        "handicap": 9,
+        "isHandicap": true,
+        "playerAChange": 6,
+        "playerBChange": -7,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-03-31",
+        "time": "오후 11:08"
+      },
+      {
+        "id": 8,
+        "winnerId": 4,
+        "loserId": 6,
+        "winnerName": "Coach. Youngsan Ahn",
+        "loserName": "Hakbae Moon",
+        "winnerRatingBefore": 1972,
+        "loserRatingBefore": 1798,
+        "winnerRatingAfter": 1980,
+        "loserRatingAfter": 1791,
+        "setScores": [
+          {
+            "a": 130,
+            "b": 11
+          },
+          {
+            "a": 11,
+            "b": 4
+          },
+          {
+            "a": 111,
+            "b": 7
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 252,
+        "loserPoints": 22,
+        "handicap": 3,
+        "isHandicap": true,
+        "playerAChange": 8,
+        "playerBChange": -7,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-03-31",
+        "time": "오후 11:08"
+      },
+      {
+        "id": 7,
+        "winnerId": 7,
+        "loserId": 12,
+        "winnerName": "Ilyoung Park",
+        "loserName": "D.C. Choi",
+        "winnerRatingBefore": 1600,
+        "loserRatingBefore": 1131,
+        "winnerRatingAfter": 1592,
+        "loserRatingAfter": 1145,
+        "setScores": [
+          {
+            "a": 11,
+            "b": 8
+          },
+          {
+            "a": 11,
+            "b": 3
+          },
+          {
+            "a": 11,
+            "b": 8
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 33,
+        "loserPoints": 19,
+        "handicap": 6,
+        "isHandicap": true,
+        "playerAChange": -8,
+        "playerBChange": 14,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-03-31",
+        "time": "오후 11:07"
+      },
+      {
+        "id": 6,
+        "winnerId": 5,
+        "loserId": 18,
+        "winnerName": "Coach Michael Sim",
+        "loserName": "S.H. Kang",
+        "winnerRatingBefore": 1778,
+        "loserRatingBefore": 850,
+        "winnerRatingAfter": 1749,
+        "loserRatingAfter": 912,
+        "setScores": [
+          {
+            "a": 11,
+            "b": 3
+          },
+          {
+            "a": 11,
+            "b": 7
+          },
+          {
+            "a": 11,
+            "b": 8
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 33,
+        "loserPoints": 18,
+        "handicap": 9,
+        "isHandicap": true,
+        "playerAChange": -29,
+        "playerBChange": 62,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-03-31",
+        "time": "오후 11:07"
+      },
+      {
+        "id": 5,
+        "winnerId": 2,
+        "loserId": 5,
+        "winnerName": "Timothy",
+        "loserName": "Coach Michael Sim",
+        "winnerRatingBefore": 2129,
+        "loserRatingBefore": 1804,
+        "winnerRatingAfter": 2150,
+        "loserRatingAfter": 1778,
+        "setScores": [
+          {
+            "a": 11,
+            "b": 1
+          },
+          {
+            "a": 11,
+            "b": 9
+          },
+          {
+            "a": 11,
+            "b": 2
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 33,
+        "loserPoints": 12,
+        "handicap": 4,
+        "isHandicap": true,
+        "playerAChange": 21,
+        "playerBChange": -26,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-03-31",
+        "time": "오후 11:06"
+      },
+      {
+        "id": 4,
+        "winnerId": 12,
+        "loserId": 16,
+        "winnerName": "D.C. Choi",
+        "loserName": "Jeongmun Hwang",
+        "winnerRatingBefore": 1100,
+        "loserRatingBefore": 850,
+        "winnerRatingAfter": 1131,
+        "loserRatingAfter": 811,
+        "setScores": [
+          {
+            "a": 11,
+            "b": 5
+          },
+          {
+            "a": 11,
+            "b": 3
+          },
+          {
+            "a": 11,
+            "b": 9
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 33,
+        "loserPoints": 17,
+        "handicap": 3,
+        "isHandicap": true,
+        "playerAChange": 31,
+        "playerBChange": -39,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-03-31",
+        "time": "오후 11:06"
+      },
+      {
+        "id": 3,
+        "winnerId": 2,
+        "loserId": 4,
+        "winnerName": "Timothy",
+        "loserName": "Coach. Youngsan Ahn",
+        "winnerRatingBefore": 2100,
+        "loserRatingBefore": 2000,
+        "winnerRatingAfter": 2129,
+        "loserRatingAfter": 1972,
+        "setScores": [
+          {
+            "a": 11,
+            "b": 6
+          },
+          {
+            "a": 11,
+            "b": 6
+          },
+          {
+            "a": 11,
+            "b": 5
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 33,
+        "loserPoints": 17,
+        "handicap": 1,
+        "isHandicap": true,
+        "playerAChange": 29,
+        "playerBChange": -28,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-03-31",
+        "time": "오후 11:05"
+      },
+      {
+        "id": 2,
+        "winnerId": 3,
+        "loserId": 5,
+        "winnerName": "Head Coach. E.T. Kim",
+        "loserName": "Coach Michael Sim",
+        "winnerRatingBefore": 2000,
+        "loserRatingBefore": 1800,
+        "winnerRatingAfter": 1998,
+        "loserRatingAfter": 1804,
+        "setScores": [
+          {
+            "a": 8,
+            "b": 11
+          },
+          {
+            "a": 11,
+            "b": 8
+          },
+          {
+            "a": 6,
+            "b": 11
+          },
+          {
+            "a": 11,
+            "b": 8
+          },
+          {
+            "a": 8,
+            "b": 11
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 2,
+        "winnerPoints": 49,
+        "loserPoints": 44,
+        "handicap": 3,
+        "isHandicap": true,
+        "playerAChange": 4,
+        "playerBChange": -2,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-03-31",
+        "time": "오후 11:05"
+      },
+      {
         "id": 1,
         "winnerId": 8,
         "loserId": 6,
@@ -396,8 +2288,8 @@
       }
     ],
     "nextPlayerId": 25,
-    "nextMatchId": 2,
-    "lastUpdated": "2026-03-27T12:21:57.460Z"
+    "nextMatchId": 35,
+    "lastUpdated": "2026-03-31T03:32:46.033Z"
   },
   "admins": {
     "admins": [
@@ -428,5 +2320,5 @@
       }
     ]
   },
-  "savedAt": "2026-03-31T03:32:19.498Z"
+  "savedAt": "2026-03-31T03:32:46.042Z"
 }
