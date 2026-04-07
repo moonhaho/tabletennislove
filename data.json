@@ -4,28 +4,83 @@
       {
         "id": 1,
         "name": "Namkyu Kang",
-        "rating": 2200,
-        "wins": 0,
-        "losses": 0,
-        "totalSetsWon": 0,
-        "totalSetsLost": 0,
-        "totalPointsWon": 0,
-        "totalPointsLost": 0,
-        "matchHistory": [],
+        "rating": 2210,
+        "wins": 2,
+        "losses": 1,
+        "totalSetsWon": 8,
+        "totalSetsLost": 4,
+        "totalPointsWon": 112,
+        "totalPointsLost": 102,
+        "matchHistory": [
+          {
+            "matchId": 37,
+            "opponent": "Timothy",
+            "result": "W",
+            "change": "+7",
+            "ratingAfter": 2210,
+            "setScore": "3-1",
+            "date": "2026-04-07"
+          },
+          {
+            "matchId": 36,
+            "opponent": "Timothy",
+            "result": "W",
+            "change": "+9",
+            "ratingAfter": 2203,
+            "setScore": "3-0",
+            "date": "2026-04-07"
+          },
+          {
+            "matchId": 35,
+            "opponent": "Timothy",
+            "result": "L",
+            "change": "-6",
+            "ratingAfter": 2194,
+            "setScore": "2-3",
+            "date": "2026-04-07"
+          }
+        ],
         "joinDate": "2026-03-27",
-        "peakRating": 2200
+        "peakRating": 2210
       },
       {
         "id": 2,
         "name": "Timothy",
-        "rating": 2163,
-        "wins": 5,
-        "losses": 0,
-        "totalSetsWon": 15,
-        "totalSetsLost": 0,
-        "totalPointsWon": 167,
-        "totalPointsLost": 69,
+        "rating": 2153,
+        "wins": 6,
+        "losses": 2,
+        "totalSetsWon": 19,
+        "totalSetsLost": 8,
+        "totalPointsWon": 269,
+        "totalPointsLost": 181,
         "matchHistory": [
+          {
+            "matchId": 37,
+            "opponent": "Namkyu Kang",
+            "result": "L",
+            "change": "-9",
+            "ratingAfter": 2153,
+            "setScore": "1-3",
+            "date": "2026-04-07"
+          },
+          {
+            "matchId": 36,
+            "opponent": "Namkyu Kang",
+            "result": "L",
+            "change": "-9",
+            "ratingAfter": 2162,
+            "setScore": "0-3",
+            "date": "2026-04-07"
+          },
+          {
+            "matchId": 35,
+            "opponent": "Namkyu Kang",
+            "result": "W",
+            "change": "+8",
+            "ratingAfter": 2171,
+            "setScore": "3-2",
+            "date": "2026-04-07"
+          },
           {
             "matchId": 16,
             "opponent": "Ilyoung Park",
@@ -78,7 +133,7 @@
           }
         ],
         "joinDate": "2026-03-27",
-        "peakRating": 2164
+        "peakRating": 2171
       },
       {
         "id": 3,
@@ -281,14 +336,84 @@
       {
         "id": 5,
         "name": "Coach Michael Sim",
-        "rating": 1705,
-        "wins": 3,
+        "rating": 1589,
+        "wins": 10,
         "losses": 4,
-        "totalSetsWon": 13,
-        "totalSetsLost": 12,
-        "totalPointsWon": 216,
-        "totalPointsLost": 215,
+        "totalSetsWon": 34,
+        "totalSetsLost": 13,
+        "totalPointsWon": 453,
+        "totalPointsLost": 340,
         "matchHistory": [
+          {
+            "matchId": 49,
+            "opponent": "D.H. Jang",
+            "result": "W",
+            "change": "-29",
+            "ratingAfter": 1589,
+            "setScore": "3-0",
+            "date": "2026-04-07",
+            "handicap": 7
+          },
+          {
+            "matchId": 46,
+            "opponent": "K.H. Kim",
+            "result": "W",
+            "change": "-18",
+            "ratingAfter": 1618,
+            "setScore": "3-0",
+            "date": "2026-04-07",
+            "handicap": 9
+          },
+          {
+            "matchId": 44,
+            "opponent": "Jeongmun Hwang",
+            "result": "W",
+            "change": "-26",
+            "ratingAfter": 1636,
+            "setScore": "3-0",
+            "date": "2026-04-07",
+            "handicap": 9
+          },
+          {
+            "matchId": 43,
+            "opponent": "H.J. Kang",
+            "result": "W",
+            "change": "-21",
+            "ratingAfter": 1662,
+            "setScore": "3-0",
+            "date": "2026-04-07",
+            "handicap": 9
+          },
+          {
+            "matchId": 42,
+            "opponent": "David Oh",
+            "result": "W",
+            "change": "+27",
+            "ratingAfter": 1683,
+            "setScore": "3-0",
+            "date": "2026-04-07",
+            "handicap": 6
+          },
+          {
+            "matchId": 40,
+            "opponent": "Inbum Song",
+            "result": "W",
+            "change": "-15",
+            "ratingAfter": 1656,
+            "setScore": "3-1",
+            "date": "2026-04-07",
+            "handicap": 6
+          },
+          {
+            "matchId": 38,
+            "opponent": "H.K. Yoon",
+            "result": "W",
+            "change": "-34",
+            "ratingAfter": 1671,
+            "setScore": "3-0",
+            "date": "2026-04-07",
+            "handicap": 9
+          },
           {
             "matchId": 31,
             "opponent": "Jeongmun Hwang",
@@ -366,14 +491,64 @@
       {
         "id": 6,
         "name": "Hakbae Moon",
-        "rating": 1787,
-        "wins": 2,
+        "rating": 1845,
+        "wins": 7,
         "losses": 3,
-        "totalSetsWon": 6,
+        "totalSetsWon": 21,
         "totalSetsLost": 9,
-        "totalPointsWon": 138,
-        "totalPointsLost": 339,
+        "totalPointsWon": 303,
+        "totalPointsLost": 359,
         "matchHistory": [
+          {
+            "matchId": 48,
+            "opponent": "David Oh",
+            "result": "W",
+            "change": "+19",
+            "ratingAfter": 1845,
+            "setScore": "3-0",
+            "date": "2026-04-07",
+            "handicap": 8
+          },
+          {
+            "matchId": 47,
+            "opponent": "Young Doe",
+            "result": "W",
+            "change": "+8",
+            "ratingAfter": 1826,
+            "setScore": "3-0",
+            "date": "2026-04-07",
+            "handicap": 8
+          },
+          {
+            "matchId": 45,
+            "opponent": "D.H. Jang",
+            "result": "W",
+            "change": "+14",
+            "ratingAfter": 1818,
+            "setScore": "3-0",
+            "date": "2026-04-07",
+            "handicap": 9
+          },
+          {
+            "matchId": 41,
+            "opponent": "Jeongmun Hwang",
+            "result": "W",
+            "change": "+11",
+            "ratingAfter": 1804,
+            "setScore": "3-0",
+            "date": "2026-04-07",
+            "handicap": 9
+          },
+          {
+            "matchId": 39,
+            "opponent": "H.J. Kang",
+            "result": "W",
+            "change": "+6",
+            "ratingAfter": 1793,
+            "setScore": "3-0",
+            "date": "2026-04-07",
+            "handicap": 9
+          },
           {
             "matchId": 28,
             "opponent": "D.C. Choi",
@@ -425,7 +600,7 @@
           }
         ],
         "joinDate": "2026-03-27",
-        "peakRating": 1800
+        "peakRating": 1845
       },
       {
         "id": 7,
@@ -543,28 +718,50 @@
       {
         "id": 10,
         "name": "Inbum Song",
-        "rating": 1200,
+        "rating": 1225,
         "wins": 0,
-        "losses": 0,
-        "totalSetsWon": 0,
-        "totalSetsLost": 0,
-        "totalPointsWon": 0,
-        "totalPointsLost": 0,
-        "matchHistory": [],
+        "losses": 1,
+        "totalSetsWon": 1,
+        "totalSetsLost": 3,
+        "totalPointsWon": 29,
+        "totalPointsLost": 37,
+        "matchHistory": [
+          {
+            "matchId": 40,
+            "opponent": "Coach Michael Sim",
+            "result": "L",
+            "change": "+25",
+            "ratingAfter": 1225,
+            "setScore": "1-3",
+            "date": "2026-04-07",
+            "handicap": 6
+          }
+        ],
         "joinDate": "2026-03-27",
-        "peakRating": 1200
+        "peakRating": 1225
       },
       {
         "id": 11,
         "name": "Young Doe",
-        "rating": 1150,
+        "rating": 1140,
         "wins": 0,
-        "losses": 0,
+        "losses": 1,
         "totalSetsWon": 0,
-        "totalSetsLost": 0,
-        "totalPointsWon": 0,
-        "totalPointsLost": 0,
-        "matchHistory": [],
+        "totalSetsLost": 3,
+        "totalPointsWon": 7,
+        "totalPointsLost": 33,
+        "matchHistory": [
+          {
+            "matchId": 47,
+            "opponent": "Hakbae Moon",
+            "result": "L",
+            "change": "-10",
+            "ratingAfter": 1140,
+            "setScore": "0-3",
+            "date": "2026-04-07",
+            "handicap": 8
+          }
+        ],
         "joinDate": "2026-03-27",
         "peakRating": 1150
       },
@@ -656,14 +853,34 @@
       {
         "id": 13,
         "name": "David Oh",
-        "rating": 1153,
+        "rating": 1089,
         "wins": 2,
-        "losses": 5,
+        "losses": 7,
         "totalSetsWon": 6,
-        "totalSetsLost": 17,
-        "totalPointsWon": 142,
-        "totalPointsLost": 223,
+        "totalSetsLost": 23,
+        "totalPointsWon": 151,
+        "totalPointsLost": 289,
         "matchHistory": [
+          {
+            "matchId": 48,
+            "opponent": "Hakbae Moon",
+            "result": "L",
+            "change": "-26",
+            "ratingAfter": 1089,
+            "setScore": "0-3",
+            "date": "2026-04-07",
+            "handicap": 8
+          },
+          {
+            "matchId": 42,
+            "opponent": "Coach Michael Sim",
+            "result": "L",
+            "change": "-38",
+            "ratingAfter": 1115,
+            "setScore": "0-3",
+            "date": "2026-04-07",
+            "handicap": 6
+          },
           {
             "matchId": 32,
             "opponent": "D.C. Choi",
@@ -741,16 +958,37 @@
       {
         "id": 14,
         "name": "D.H. Jang",
-        "rating": 1000,
+        "rating": 1044,
         "wins": 0,
-        "losses": 0,
+        "losses": 2,
         "totalSetsWon": 0,
-        "totalSetsLost": 0,
-        "totalPointsWon": 0,
-        "totalPointsLost": 0,
-        "matchHistory": [],
+        "totalSetsLost": 6,
+        "totalPointsWon": 26,
+        "totalPointsLost": 68,
+        "matchHistory": [
+          {
+            "matchId": 49,
+            "opponent": "Coach Michael Sim",
+            "result": "L",
+            "change": "+62",
+            "ratingAfter": 1044,
+            "setScore": "0-3",
+            "date": "2026-04-07",
+            "handicap": 7
+          },
+          {
+            "matchId": 45,
+            "opponent": "Hakbae Moon",
+            "result": "L",
+            "change": "-18",
+            "ratingAfter": 982,
+            "setScore": "0-3",
+            "date": "2026-04-07",
+            "handicap": 9
+          }
+        ],
         "joinDate": "2026-03-27",
-        "peakRating": 1000
+        "peakRating": 1044
       },
       {
         "id": 15,
@@ -769,14 +1007,34 @@
       {
         "id": 16,
         "name": "Jeongmun Hwang",
-        "rating": 804,
+        "rating": 843,
         "wins": 0,
-        "losses": 6,
+        "losses": 8,
         "totalSetsWon": 2,
-        "totalSetsLost": 18,
-        "totalPointsWon": 85,
-        "totalPointsLost": 216,
+        "totalSetsLost": 24,
+        "totalPointsWon": 105,
+        "totalPointsLost": 282,
         "matchHistory": [
+          {
+            "matchId": 44,
+            "opponent": "Coach Michael Sim",
+            "result": "L",
+            "change": "+57",
+            "ratingAfter": 843,
+            "setScore": "0-3",
+            "date": "2026-04-07",
+            "handicap": 9
+          },
+          {
+            "matchId": 41,
+            "opponent": "Hakbae Moon",
+            "result": "L",
+            "change": "-18",
+            "ratingAfter": 786,
+            "setScore": "0-3",
+            "date": "2026-04-07",
+            "handicap": 9
+          },
           {
             "matchId": 31,
             "opponent": "Coach Michael Sim",
@@ -844,16 +1102,27 @@
       {
         "id": 17,
         "name": "H.K. Yoon",
-        "rating": 850,
+        "rating": 923,
         "wins": 0,
-        "losses": 0,
+        "losses": 1,
         "totalSetsWon": 0,
-        "totalSetsLost": 0,
-        "totalPointsWon": 0,
-        "totalPointsLost": 0,
-        "matchHistory": [],
+        "totalSetsLost": 3,
+        "totalPointsWon": 20,
+        "totalPointsLost": 33,
+        "matchHistory": [
+          {
+            "matchId": 38,
+            "opponent": "Coach Michael Sim",
+            "result": "L",
+            "change": "+73",
+            "ratingAfter": 923,
+            "setScore": "0-3",
+            "date": "2026-04-07",
+            "handicap": 9
+          }
+        ],
         "joinDate": "2026-03-27",
-        "peakRating": 850
+        "peakRating": 923
       },
       {
         "id": 18,
@@ -971,16 +1240,27 @@
       {
         "id": 21,
         "name": "K.H. Kim",
-        "rating": 700,
+        "rating": 741,
         "wins": 0,
-        "losses": 0,
+        "losses": 1,
         "totalSetsWon": 0,
-        "totalSetsLost": 0,
-        "totalPointsWon": 0,
-        "totalPointsLost": 0,
-        "matchHistory": [],
+        "totalSetsLost": 3,
+        "totalPointsWon": 14,
+        "totalPointsLost": 33,
+        "matchHistory": [
+          {
+            "matchId": 46,
+            "opponent": "Coach Michael Sim",
+            "result": "L",
+            "change": "+41",
+            "ratingAfter": 741,
+            "setScore": "0-3",
+            "date": "2026-04-07",
+            "handicap": 9
+          }
+        ],
         "joinDate": "2026-03-27",
-        "peakRating": 700
+        "peakRating": 741
       },
       {
         "id": 22,
@@ -1013,19 +1293,599 @@
       {
         "id": 24,
         "name": "H.J. Kang",
-        "rating": 600,
+        "rating": 639,
         "wins": 0,
-        "losses": 0,
+        "losses": 2,
         "totalSetsWon": 0,
-        "totalSetsLost": 0,
-        "totalPointsWon": 0,
-        "totalPointsLost": 0,
-        "matchHistory": [],
+        "totalSetsLost": 6,
+        "totalPointsWon": 20,
+        "totalPointsLost": 66,
+        "matchHistory": [
+          {
+            "matchId": 43,
+            "opponent": "Coach Michael Sim",
+            "result": "L",
+            "change": "+46",
+            "ratingAfter": 639,
+            "setScore": "0-3",
+            "date": "2026-04-07",
+            "handicap": 9
+          },
+          {
+            "matchId": 39,
+            "opponent": "Hakbae Moon",
+            "result": "L",
+            "change": "-7",
+            "ratingAfter": 593,
+            "setScore": "0-3",
+            "date": "2026-04-07",
+            "handicap": 9
+          }
+        ],
         "joinDate": "2026-03-27",
-        "peakRating": 600
+        "peakRating": 639
       }
     ],
     "matches": [
+      {
+        "id": 49,
+        "winnerId": 5,
+        "loserId": 14,
+        "winnerName": "Coach Michael Sim",
+        "loserName": "D.H. Jang",
+        "winnerRatingBefore": 1618,
+        "loserRatingBefore": 982,
+        "winnerRatingAfter": 1589,
+        "loserRatingAfter": 1044,
+        "setScores": [
+          {
+            "a": 11,
+            "b": 7
+          },
+          {
+            "a": 11,
+            "b": 6
+          },
+          {
+            "a": 13,
+            "b": 11
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 35,
+        "loserPoints": 24,
+        "handicap": 7,
+        "isHandicap": true,
+        "playerAChange": -29,
+        "playerBChange": 62,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-04-07",
+        "time": "오후 08:18"
+      },
+      {
+        "id": 48,
+        "winnerId": 6,
+        "loserId": 13,
+        "winnerName": "Hakbae Moon",
+        "loserName": "David Oh",
+        "winnerRatingBefore": 1826,
+        "loserRatingBefore": 1115,
+        "winnerRatingAfter": 1845,
+        "loserRatingAfter": 1089,
+        "setScores": [
+          {
+            "a": 11,
+            "b": 1
+          },
+          {
+            "a": 11,
+            "b": 1
+          },
+          {
+            "a": 11,
+            "b": 1
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 33,
+        "loserPoints": 3,
+        "handicap": 8,
+        "isHandicap": true,
+        "playerAChange": 19,
+        "playerBChange": -26,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-04-07",
+        "time": "오후 08:17"
+      },
+      {
+        "id": 47,
+        "winnerId": 6,
+        "loserId": 11,
+        "winnerName": "Hakbae Moon",
+        "loserName": "Young Doe",
+        "winnerRatingBefore": 1818,
+        "loserRatingBefore": 1150,
+        "winnerRatingAfter": 1826,
+        "loserRatingAfter": 1140,
+        "setScores": [
+          {
+            "a": 11,
+            "b": 6
+          },
+          {
+            "a": 11,
+            "b": 0
+          },
+          {
+            "a": 11,
+            "b": 1
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 33,
+        "loserPoints": 7,
+        "handicap": 8,
+        "isHandicap": true,
+        "playerAChange": 8,
+        "playerBChange": -10,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-04-07",
+        "time": "오후 08:17"
+      },
+      {
+        "id": 46,
+        "winnerId": 5,
+        "loserId": 21,
+        "winnerName": "Coach Michael Sim",
+        "loserName": "K.H. Kim",
+        "winnerRatingBefore": 1636,
+        "loserRatingBefore": 700,
+        "winnerRatingAfter": 1618,
+        "loserRatingAfter": 741,
+        "setScores": [
+          {
+            "a": 11,
+            "b": 2
+          },
+          {
+            "a": 11,
+            "b": 6
+          },
+          {
+            "a": 11,
+            "b": 6
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 33,
+        "loserPoints": 14,
+        "handicap": 9,
+        "isHandicap": true,
+        "playerAChange": -18,
+        "playerBChange": 41,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-04-07",
+        "time": "오후 08:17"
+      },
+      {
+        "id": 45,
+        "winnerId": 6,
+        "loserId": 14,
+        "winnerName": "Hakbae Moon",
+        "loserName": "D.H. Jang",
+        "winnerRatingBefore": 1804,
+        "loserRatingBefore": 1000,
+        "winnerRatingAfter": 1818,
+        "loserRatingAfter": 982,
+        "setScores": [
+          {
+            "a": 11,
+            "b": 1
+          },
+          {
+            "a": 11,
+            "b": 0
+          },
+          {
+            "a": 11,
+            "b": 1
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 33,
+        "loserPoints": 2,
+        "handicap": 9,
+        "isHandicap": true,
+        "playerAChange": 14,
+        "playerBChange": -18,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-04-07",
+        "time": "오후 08:16"
+      },
+      {
+        "id": 44,
+        "winnerId": 5,
+        "loserId": 16,
+        "winnerName": "Coach Michael Sim",
+        "loserName": "Jeongmun Hwang",
+        "winnerRatingBefore": 1662,
+        "loserRatingBefore": 786,
+        "winnerRatingAfter": 1636,
+        "loserRatingAfter": 843,
+        "setScores": [
+          {
+            "a": 11,
+            "b": 6
+          },
+          {
+            "a": 11,
+            "b": 4
+          },
+          {
+            "a": 11,
+            "b": 7
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 33,
+        "loserPoints": 17,
+        "handicap": 9,
+        "isHandicap": true,
+        "playerAChange": -26,
+        "playerBChange": 57,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-04-07",
+        "time": "오후 08:16"
+      },
+      {
+        "id": 43,
+        "winnerId": 5,
+        "loserId": 24,
+        "winnerName": "Coach Michael Sim",
+        "loserName": "H.J. Kang",
+        "winnerRatingBefore": 1683,
+        "loserRatingBefore": 593,
+        "winnerRatingAfter": 1662,
+        "loserRatingAfter": 639,
+        "setScores": [
+          {
+            "a": 11,
+            "b": 0
+          },
+          {
+            "a": 11,
+            "b": 6
+          },
+          {
+            "a": 11,
+            "b": 9
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 33,
+        "loserPoints": 15,
+        "handicap": 9,
+        "isHandicap": true,
+        "playerAChange": -21,
+        "playerBChange": 46,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-04-07",
+        "time": "오후 08:15"
+      },
+      {
+        "id": 42,
+        "winnerId": 5,
+        "loserId": 13,
+        "winnerName": "Coach Michael Sim",
+        "loserName": "David Oh",
+        "winnerRatingBefore": 1656,
+        "loserRatingBefore": 1153,
+        "winnerRatingAfter": 1683,
+        "loserRatingAfter": 1115,
+        "setScores": [
+          {
+            "a": 11,
+            "b": 1
+          },
+          {
+            "a": 11,
+            "b": 3
+          },
+          {
+            "a": 11,
+            "b": 2
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 33,
+        "loserPoints": 6,
+        "handicap": 6,
+        "isHandicap": true,
+        "playerAChange": 27,
+        "playerBChange": -38,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-04-07",
+        "time": "오후 08:15"
+      },
+      {
+        "id": 41,
+        "winnerId": 6,
+        "loserId": 16,
+        "winnerName": "Hakbae Moon",
+        "loserName": "Jeongmun Hwang",
+        "winnerRatingBefore": 1793,
+        "loserRatingBefore": 804,
+        "winnerRatingAfter": 1804,
+        "loserRatingAfter": 786,
+        "setScores": [
+          {
+            "a": 11,
+            "b": 0
+          },
+          {
+            "a": 11,
+            "b": 2
+          },
+          {
+            "a": 11,
+            "b": 1
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 33,
+        "loserPoints": 3,
+        "handicap": 9,
+        "isHandicap": true,
+        "playerAChange": 11,
+        "playerBChange": -18,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-04-07",
+        "time": "오후 08:14"
+      },
+      {
+        "id": 40,
+        "winnerId": 5,
+        "loserId": 10,
+        "winnerName": "Coach Michael Sim",
+        "loserName": "Inbum Song",
+        "winnerRatingBefore": 1671,
+        "loserRatingBefore": 1200,
+        "winnerRatingAfter": 1656,
+        "loserRatingAfter": 1225,
+        "setScores": [
+          {
+            "a": 11,
+            "b": 5
+          },
+          {
+            "a": 11,
+            "b": 6
+          },
+          {
+            "a": 4,
+            "b": 11
+          },
+          {
+            "a": 11,
+            "b": 7
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 1,
+        "winnerPoints": 37,
+        "loserPoints": 29,
+        "handicap": 6,
+        "isHandicap": true,
+        "playerAChange": -15,
+        "playerBChange": 25,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-04-07",
+        "time": "오후 08:14"
+      },
+      {
+        "id": 39,
+        "winnerId": 6,
+        "loserId": 24,
+        "winnerName": "Hakbae Moon",
+        "loserName": "H.J. Kang",
+        "winnerRatingBefore": 1787,
+        "loserRatingBefore": 600,
+        "winnerRatingAfter": 1793,
+        "loserRatingAfter": 593,
+        "setScores": [
+          {
+            "a": 11,
+            "b": 2
+          },
+          {
+            "a": 11,
+            "b": 3
+          },
+          {
+            "a": 11,
+            "b": 0
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 33,
+        "loserPoints": 5,
+        "handicap": 9,
+        "isHandicap": true,
+        "playerAChange": 6,
+        "playerBChange": -7,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-04-07",
+        "time": "오후 08:13"
+      },
+      {
+        "id": 38,
+        "winnerId": 5,
+        "loserId": 17,
+        "winnerName": "Coach Michael Sim",
+        "loserName": "H.K. Yoon",
+        "winnerRatingBefore": 1705,
+        "loserRatingBefore": 850,
+        "winnerRatingAfter": 1671,
+        "loserRatingAfter": 923,
+        "setScores": [
+          {
+            "a": 11,
+            "b": 8
+          },
+          {
+            "a": 11,
+            "b": 4
+          },
+          {
+            "a": 11,
+            "b": 8
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 33,
+        "loserPoints": 20,
+        "handicap": 9,
+        "isHandicap": true,
+        "playerAChange": -34,
+        "playerBChange": 73,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-04-07",
+        "time": "오후 08:13"
+      },
+      {
+        "id": 37,
+        "winnerId": 1,
+        "loserId": 2,
+        "winnerName": "Namkyu Kang",
+        "loserName": "Timothy",
+        "winnerRatingBefore": 2203,
+        "loserRatingBefore": 2162,
+        "winnerRatingAfter": 2210,
+        "loserRatingAfter": 2153,
+        "pointsExchanged": 7,
+        "setScores": [
+          {
+            "a": 8,
+            "b": 11
+          },
+          {
+            "a": 11,
+            "b": 6
+          },
+          {
+            "a": 11,
+            "b": 9
+          },
+          {
+            "a": 11,
+            "b": 3
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 1,
+        "winnerPoints": 41,
+        "loserPoints": 29,
+        "setMultiplier": 1.1,
+        "pointBonus": 1,
+        "handicap": 0,
+        "isHandicap": false,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-04-07",
+        "time": "오후 08:12"
+      },
+      {
+        "id": 36,
+        "winnerId": 1,
+        "loserId": 2,
+        "winnerName": "Namkyu Kang",
+        "loserName": "Timothy",
+        "winnerRatingBefore": 2194,
+        "loserRatingBefore": 2171,
+        "winnerRatingAfter": 2203,
+        "loserRatingAfter": 2162,
+        "pointsExchanged": 9,
+        "setScores": [
+          {
+            "a": 15,
+            "b": 13
+          },
+          {
+            "a": 11,
+            "b": 9
+          },
+          {
+            "a": 11,
+            "b": 7
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 37,
+        "loserPoints": 29,
+        "setMultiplier": 1.25,
+        "pointBonus": 1,
+        "handicap": 0,
+        "isHandicap": false,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-04-07",
+        "time": "오후 08:11"
+      },
+      {
+        "id": 35,
+        "winnerId": 2,
+        "loserId": 1,
+        "winnerName": "Timothy",
+        "loserName": "Namkyu Kang",
+        "winnerRatingBefore": 2163,
+        "loserRatingBefore": 2200,
+        "winnerRatingAfter": 2171,
+        "loserRatingAfter": 2194,
+        "pointsExchanged": 8,
+        "setScores": [
+          {
+            "a": 4,
+            "b": 11
+          },
+          {
+            "a": 11,
+            "b": 7
+          },
+          {
+            "a": 1,
+            "b": 11
+          },
+          {
+            "a": 11,
+            "b": 4
+          },
+          {
+            "a": 7,
+            "b": 11
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 2,
+        "winnerPoints": 44,
+        "loserPoints": 34,
+        "setMultiplier": 1,
+        "pointBonus": 1,
+        "handicap": 0,
+        "isHandicap": false,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-04-07",
+        "time": "오후 08:11"
+      },
       {
         "id": 34,
         "winnerId": 3,
@@ -1060,7 +1920,7 @@
         "playerBChange": -2,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:21"
+        "time": "오후 11:21"
       },
       {
         "id": 33,
@@ -1096,7 +1956,7 @@
         "playerBChange": -5,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:21"
+        "time": "오후 11:21"
       },
       {
         "id": 32,
@@ -1140,7 +2000,7 @@
         "playerBChange": -7,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:20"
+        "time": "오후 11:20"
       },
       {
         "id": 31,
@@ -1176,7 +2036,7 @@
         "playerBChange": 9,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:20"
+        "time": "오후 11:20"
       },
       {
         "id": 30,
@@ -1212,7 +2072,7 @@
         "playerBChange": -18,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:19"
+        "time": "오후 11:19"
       },
       {
         "id": 29,
@@ -1248,7 +2108,7 @@
         "playerBChange": 8,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:19"
+        "time": "오후 11:19"
       },
       {
         "id": 28,
@@ -1284,7 +2144,7 @@
         "playerBChange": 14,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:18"
+        "time": "오후 11:18"
       },
       {
         "id": 27,
@@ -1320,7 +2180,7 @@
         "playerBChange": -18,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:18"
+        "time": "오후 11:18"
       },
       {
         "id": 26,
@@ -1356,7 +2216,7 @@
         "playerBChange": 10,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:17"
+        "time": "오후 11:17"
       },
       {
         "id": 25,
@@ -1400,7 +2260,7 @@
         "playerBChange": 6,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:17"
+        "time": "오후 11:17"
       },
       {
         "id": 24,
@@ -1441,7 +2301,7 @@
         "isHandicap": false,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:16"
+        "time": "오후 11:16"
       },
       {
         "id": 23,
@@ -1481,7 +2341,7 @@
         "playerBChange": 13,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:16"
+        "time": "오후 11:16"
       },
       {
         "id": 22,
@@ -1517,7 +2377,7 @@
         "playerBChange": 1,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:15"
+        "time": "오후 11:15"
       },
       {
         "id": 21,
@@ -1553,7 +2413,7 @@
         "playerBChange": -2,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:14"
+        "time": "오후 11:14"
       },
       {
         "id": 20,
@@ -1589,7 +2449,7 @@
         "playerBChange": -8,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:14"
+        "time": "오후 11:14"
       },
       {
         "id": 19,
@@ -1625,7 +2485,7 @@
         "playerBChange": -39,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:13"
+        "time": "오후 11:13"
       },
       {
         "id": 18,
@@ -1661,7 +2521,7 @@
         "playerBChange": -125,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:13"
+        "time": "오후 11:13"
       },
       {
         "id": 17,
@@ -1697,7 +2557,7 @@
         "playerBChange": 3,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:12"
+        "time": "오후 11:12"
       },
       {
         "id": 16,
@@ -1733,7 +2593,7 @@
         "playerBChange": 3,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:12"
+        "time": "오후 11:12"
       },
       {
         "id": 15,
@@ -1773,7 +2633,7 @@
         "playerBChange": 7,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:11"
+        "time": "오후 11:11"
       },
       {
         "id": 14,
@@ -1809,7 +2669,7 @@
         "playerBChange": -2,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:11"
+        "time": "오후 11:11"
       },
       {
         "id": 13,
@@ -1845,7 +2705,7 @@
         "playerBChange": 3,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:10"
+        "time": "오후 11:10"
       },
       {
         "id": 12,
@@ -1881,7 +2741,7 @@
         "playerBChange": -2,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:10"
+        "time": "오후 11:10"
       },
       {
         "id": 11,
@@ -1917,7 +2777,7 @@
         "playerBChange": -13,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:09"
+        "time": "오후 11:09"
       },
       {
         "id": 10,
@@ -1953,7 +2813,7 @@
         "playerBChange": 38,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:09"
+        "time": "오후 11:09"
       },
       {
         "id": 9,
@@ -1989,7 +2849,7 @@
         "playerBChange": -7,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:08"
+        "time": "오후 11:08"
       },
       {
         "id": 8,
@@ -2025,7 +2885,7 @@
         "playerBChange": -7,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:08"
+        "time": "오후 11:08"
       },
       {
         "id": 7,
@@ -2061,7 +2921,7 @@
         "playerBChange": 14,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:07"
+        "time": "오후 11:07"
       },
       {
         "id": 6,
@@ -2097,7 +2957,7 @@
         "playerBChange": 62,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:07"
+        "time": "오후 11:07"
       },
       {
         "id": 5,
@@ -2133,7 +2993,7 @@
         "playerBChange": -26,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:06"
+        "time": "오후 11:06"
       },
       {
         "id": 4,
@@ -2169,7 +3029,7 @@
         "playerBChange": -39,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:06"
+        "time": "오후 11:06"
       },
       {
         "id": 3,
@@ -2205,7 +3065,7 @@
         "playerBChange": -28,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:05"
+        "time": "오후 11:05"
       },
       {
         "id": 2,
@@ -2249,7 +3109,7 @@
         "playerBChange": -2,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:05"
+        "time": "오후 11:05"
       },
       {
         "id": 1,
@@ -2288,8 +3148,8 @@
       }
     ],
     "nextPlayerId": 25,
-    "nextMatchId": 35,
-    "lastUpdated": "2026-03-31T03:32:46.033Z",
+    "nextMatchId": 50,
+    "lastUpdated": "2026-04-07T03:29:03.387Z",
     "posts": [],
     "nextPostId": 1
   },
@@ -2322,5 +3182,5 @@
       }
     ]
   },
-  "savedAt": "2026-04-07T03:28:20.500Z"
+  "savedAt": "2026-04-07T03:29:03.390Z"
 }
