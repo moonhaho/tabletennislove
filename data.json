@@ -4,14 +4,24 @@
       {
         "id": 1,
         "name": "Namkyu Kang",
-        "rating": 2210,
-        "wins": 2,
+        "rating": 2225,
+        "wins": 3,
         "losses": 1,
-        "totalSetsWon": 8,
+        "totalSetsWon": 11,
         "totalSetsLost": 4,
-        "totalPointsWon": 112,
-        "totalPointsLost": 102,
+        "totalPointsWon": 145,
+        "totalPointsLost": 114,
         "matchHistory": [
+          {
+            "matchId": 55,
+            "opponent": "Hakbae Moon",
+            "result": "W",
+            "change": "+15",
+            "ratingAfter": 2225,
+            "setScore": "3-0",
+            "date": "2026-04-28",
+            "handicap": 5
+          },
           {
             "matchId": 37,
             "opponent": "Timothy",
@@ -41,7 +51,7 @@
           }
         ],
         "joinDate": "2026-03-27",
-        "peakRating": 2210
+        "peakRating": 2225
       },
       {
         "id": 2,
@@ -336,14 +346,34 @@
       {
         "id": 5,
         "name": "Coach Michael Sim",
-        "rating": 1589,
-        "wins": 10,
+        "rating": 1579,
+        "wins": 12,
         "losses": 4,
-        "totalSetsWon": 34,
+        "totalSetsWon": 40,
         "totalSetsLost": 13,
-        "totalPointsWon": 453,
-        "totalPointsLost": 340,
+        "totalPointsWon": 519,
+        "totalPointsLost": 376,
         "matchHistory": [
+          {
+            "matchId": 53,
+            "opponent": "Young Doe",
+            "result": "W",
+            "change": "-8",
+            "ratingAfter": 1579,
+            "setScore": "3-0",
+            "date": "2026-04-27",
+            "handicap": 6
+          },
+          {
+            "matchId": 51,
+            "opponent": "David Oh",
+            "result": "W",
+            "change": "-2",
+            "ratingAfter": 1587,
+            "setScore": "3-0",
+            "date": "2026-04-27",
+            "handicap": 6
+          },
           {
             "matchId": 49,
             "opponent": "D.H. Jang",
@@ -491,14 +521,24 @@
       {
         "id": 6,
         "name": "Hakbae Moon",
-        "rating": 1845,
+        "rating": 1827,
         "wins": 7,
-        "losses": 3,
+        "losses": 4,
         "totalSetsWon": 21,
-        "totalSetsLost": 9,
-        "totalPointsWon": 303,
-        "totalPointsLost": 359,
+        "totalSetsLost": 12,
+        "totalPointsWon": 315,
+        "totalPointsLost": 392,
         "matchHistory": [
+          {
+            "matchId": 55,
+            "opponent": "Namkyu Kang",
+            "result": "L",
+            "change": "-18",
+            "ratingAfter": 1827,
+            "setScore": "0-3",
+            "date": "2026-04-28",
+            "handicap": 5
+          },
           {
             "matchId": 48,
             "opponent": "David Oh",
@@ -605,14 +645,34 @@
       {
         "id": 7,
         "name": "Ilyoung Park",
-        "rating": 1622,
-        "wins": 4,
+        "rating": 1670,
+        "wins": 6,
         "losses": 2,
-        "totalSetsWon": 12,
+        "totalSetsWon": 18,
         "totalSetsLost": 7,
-        "totalPointsWon": 175,
-        "totalPointsLost": 136,
+        "totalPointsWon": 239,
+        "totalPointsLost": 150,
         "matchHistory": [
+          {
+            "matchId": 52,
+            "opponent": "Young Doe",
+            "result": "W",
+            "change": "+24",
+            "ratingAfter": 1670,
+            "setScore": "3-0",
+            "date": "2026-04-27",
+            "handicap": 6
+          },
+          {
+            "matchId": 50,
+            "opponent": "David Oh",
+            "result": "W",
+            "change": "+24",
+            "ratingAfter": 1646,
+            "setScore": "3-0",
+            "date": "2026-04-27",
+            "handicap": 6
+          },
           {
             "matchId": 33,
             "opponent": "Coach. Youngsan Ahn",
@@ -675,7 +735,7 @@
           }
         ],
         "joinDate": "2026-03-27",
-        "peakRating": 1627
+        "peakRating": 1670
       },
       {
         "id": 8,
@@ -743,14 +803,44 @@
       {
         "id": 11,
         "name": "Young Doe",
-        "rating": 1140,
+        "rating": 1136,
         "wins": 0,
-        "losses": 1,
-        "totalSetsWon": 0,
-        "totalSetsLost": 3,
-        "totalPointsWon": 7,
-        "totalPointsLost": 33,
+        "losses": 4,
+        "totalSetsWon": 3,
+        "totalSetsLost": 10,
+        "totalPointsWon": 72,
+        "totalPointsLost": 131,
         "matchHistory": [
+          {
+            "matchId": 54,
+            "opponent": "David Oh",
+            "result": "L",
+            "change": "+16",
+            "ratingAfter": 1136,
+            "setScore": "3-1",
+            "date": "2026-04-27",
+            "handicap": 1
+          },
+          {
+            "matchId": 53,
+            "opponent": "Coach Michael Sim",
+            "result": "L",
+            "change": "+14",
+            "ratingAfter": 1120,
+            "setScore": "0-3",
+            "date": "2026-04-27",
+            "handicap": 6
+          },
+          {
+            "matchId": 52,
+            "opponent": "Ilyoung Park",
+            "result": "L",
+            "change": "-34",
+            "ratingAfter": 1106,
+            "setScore": "0-3",
+            "date": "2026-04-27",
+            "handicap": 6
+          },
           {
             "matchId": 47,
             "opponent": "Hakbae Moon",
@@ -853,14 +943,44 @@
       {
         "id": 13,
         "name": "David Oh",
-        "rating": 1089,
-        "wins": 2,
-        "losses": 7,
-        "totalSetsWon": 6,
-        "totalSetsLost": 23,
-        "totalPointsWon": 151,
-        "totalPointsLost": 289,
+        "rating": 1046,
+        "wins": 3,
+        "losses": 9,
+        "totalSetsWon": 7,
+        "totalSetsLost": 32,
+        "totalPointsWon": 209,
+        "totalPointsLost": 394,
         "matchHistory": [
+          {
+            "matchId": 54,
+            "opponent": "Young Doe",
+            "result": "W",
+            "change": "-15",
+            "ratingAfter": 1046,
+            "setScore": "1-3",
+            "date": "2026-04-27",
+            "handicap": 1
+          },
+          {
+            "matchId": 51,
+            "opponent": "Coach Michael Sim",
+            "result": "L",
+            "change": "+6",
+            "ratingAfter": 1061,
+            "setScore": "0-3",
+            "date": "2026-04-27",
+            "handicap": 6
+          },
+          {
+            "matchId": 50,
+            "opponent": "Ilyoung Park",
+            "result": "L",
+            "change": "-34",
+            "ratingAfter": 1055,
+            "setScore": "0-3",
+            "date": "2026-04-27",
+            "handicap": 6
+          },
           {
             "matchId": 48,
             "opponent": "Hakbae Moon",
@@ -1324,9 +1444,243 @@
         ],
         "joinDate": "2026-03-27",
         "peakRating": 639
+      },
+      {
+        "id": 25,
+        "name": "Chang Hee Kim",
+        "rating": 400,
+        "wins": 0,
+        "losses": 0,
+        "totalSetsWon": 0,
+        "totalSetsLost": 0,
+        "totalPointsWon": 0,
+        "totalPointsLost": 0,
+        "matchHistory": [],
+        "joinDate": "2026-04-27",
+        "peakRating": 400
       }
     ],
     "matches": [
+      {
+        "id": 55,
+        "winnerId": 1,
+        "loserId": 6,
+        "winnerName": "Namkyu Kang",
+        "loserName": "Hakbae Moon",
+        "winnerRatingBefore": 2210,
+        "loserRatingBefore": 1845,
+        "winnerRatingAfter": 2225,
+        "loserRatingAfter": 1827,
+        "setScores": [
+          {
+            "a": 4,
+            "b": 11
+          },
+          {
+            "a": 3,
+            "b": 11
+          },
+          {
+            "a": 5,
+            "b": 11
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 33,
+        "loserPoints": 12,
+        "handicap": 5,
+        "isHandicap": true,
+        "playerAChange": -18,
+        "playerBChange": 15,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-04-28",
+        "time": "오후 09:06"
+      },
+      {
+        "id": 54,
+        "winnerId": 13,
+        "loserId": 11,
+        "winnerName": "David Oh",
+        "loserName": "Young Doe",
+        "winnerRatingBefore": 1061,
+        "loserRatingBefore": 1120,
+        "winnerRatingAfter": 1046,
+        "loserRatingAfter": 1136,
+        "setScores": [
+          {
+            "a": 11,
+            "b": 6
+          },
+          {
+            "a": 8,
+            "b": 11
+          },
+          {
+            "a": 8,
+            "b": 11
+          },
+          {
+            "a": 7,
+            "b": 11
+          }
+        ],
+        "winnerSets": 1,
+        "loserSets": 3,
+        "winnerPoints": 34,
+        "loserPoints": 39,
+        "handicap": 1,
+        "isHandicap": true,
+        "playerAChange": -15,
+        "playerBChange": 16,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-04-27",
+        "time": "오후 07:42"
+      },
+      {
+        "id": 53,
+        "winnerId": 5,
+        "loserId": 11,
+        "winnerName": "Coach Michael Sim",
+        "loserName": "Young Doe",
+        "winnerRatingBefore": 1587,
+        "loserRatingBefore": 1106,
+        "winnerRatingAfter": 1579,
+        "loserRatingAfter": 1120,
+        "setScores": [
+          {
+            "a": 3,
+            "b": 11
+          },
+          {
+            "a": 10,
+            "b": 11
+          },
+          {
+            "a": 6,
+            "b": 11
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 33,
+        "loserPoints": 19,
+        "handicap": 6,
+        "isHandicap": true,
+        "playerAChange": 14,
+        "playerBChange": -8,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-04-27",
+        "time": "오후 07:27"
+      },
+      {
+        "id": 52,
+        "winnerId": 7,
+        "loserId": 11,
+        "winnerName": "Ilyoung Park",
+        "loserName": "Young Doe",
+        "winnerRatingBefore": 1646,
+        "loserRatingBefore": 1140,
+        "winnerRatingAfter": 1670,
+        "loserRatingAfter": 1106,
+        "setScores": [
+          {
+            "a": 2,
+            "b": 11
+          },
+          {
+            "a": 4,
+            "b": 11
+          },
+          {
+            "a": 1,
+            "b": 9
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 31,
+        "loserPoints": 7,
+        "handicap": 6,
+        "isHandicap": true,
+        "playerAChange": -34,
+        "playerBChange": 24,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-04-27",
+        "time": "오후 07:26"
+      },
+      {
+        "id": 51,
+        "winnerId": 5,
+        "loserId": 13,
+        "winnerName": "Coach Michael Sim",
+        "loserName": "David Oh",
+        "winnerRatingBefore": 1589,
+        "loserRatingBefore": 1055,
+        "winnerRatingAfter": 1587,
+        "loserRatingAfter": 1061,
+        "setScores": [
+          {
+            "a": 11,
+            "b": 2
+          },
+          {
+            "a": 11,
+            "b": 9
+          },
+          {
+            "a": 11,
+            "b": 6
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 33,
+        "loserPoints": 17,
+        "handicap": 6,
+        "isHandicap": true,
+        "playerAChange": -2,
+        "playerBChange": 6,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-04-27",
+        "time": "오후 07:26"
+      },
+      {
+        "id": 50,
+        "winnerId": 7,
+        "loserId": 13,
+        "winnerName": "Ilyoung Park",
+        "loserName": "David Oh",
+        "winnerRatingBefore": 1622,
+        "loserRatingBefore": 1089,
+        "winnerRatingAfter": 1646,
+        "loserRatingAfter": 1055,
+        "setScores": [
+          {
+            "a": 11,
+            "b": 4
+          },
+          {
+            "a": 11,
+            "b": 3
+          },
+          {
+            "a": 11,
+            "b": 0
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 33,
+        "loserPoints": 7,
+        "handicap": 6,
+        "isHandicap": true,
+        "playerAChange": 24,
+        "playerBChange": -34,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-04-27",
+        "time": "오후 07:25"
+      },
       {
         "id": 49,
         "winnerId": 5,
@@ -1361,7 +1715,7 @@
         "playerBChange": 62,
         "recordedBy": "Hakbae Moon",
         "date": "2026-04-07",
-        "time": "ì¤í 08:18"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 08:18"
       },
       {
         "id": 48,
@@ -1397,7 +1751,7 @@
         "playerBChange": -26,
         "recordedBy": "Hakbae Moon",
         "date": "2026-04-07",
-        "time": "ì¤í 08:17"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 08:17"
       },
       {
         "id": 47,
@@ -1433,7 +1787,7 @@
         "playerBChange": -10,
         "recordedBy": "Hakbae Moon",
         "date": "2026-04-07",
-        "time": "ì¤í 08:17"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 08:17"
       },
       {
         "id": 46,
@@ -1469,7 +1823,7 @@
         "playerBChange": 41,
         "recordedBy": "Hakbae Moon",
         "date": "2026-04-07",
-        "time": "ì¤í 08:17"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 08:17"
       },
       {
         "id": 45,
@@ -1505,7 +1859,7 @@
         "playerBChange": -18,
         "recordedBy": "Hakbae Moon",
         "date": "2026-04-07",
-        "time": "ì¤í 08:16"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 08:16"
       },
       {
         "id": 44,
@@ -1541,7 +1895,7 @@
         "playerBChange": 57,
         "recordedBy": "Hakbae Moon",
         "date": "2026-04-07",
-        "time": "ì¤í 08:16"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 08:16"
       },
       {
         "id": 43,
@@ -1577,7 +1931,7 @@
         "playerBChange": 46,
         "recordedBy": "Hakbae Moon",
         "date": "2026-04-07",
-        "time": "ì¤í 08:15"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 08:15"
       },
       {
         "id": 42,
@@ -1613,7 +1967,7 @@
         "playerBChange": -38,
         "recordedBy": "Hakbae Moon",
         "date": "2026-04-07",
-        "time": "ì¤í 08:15"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 08:15"
       },
       {
         "id": 41,
@@ -1649,7 +2003,7 @@
         "playerBChange": -18,
         "recordedBy": "Hakbae Moon",
         "date": "2026-04-07",
-        "time": "ì¤í 08:14"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 08:14"
       },
       {
         "id": 40,
@@ -1689,7 +2043,7 @@
         "playerBChange": 25,
         "recordedBy": "Hakbae Moon",
         "date": "2026-04-07",
-        "time": "ì¤í 08:14"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 08:14"
       },
       {
         "id": 39,
@@ -1725,7 +2079,7 @@
         "playerBChange": -7,
         "recordedBy": "Hakbae Moon",
         "date": "2026-04-07",
-        "time": "ì¤í 08:13"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 08:13"
       },
       {
         "id": 38,
@@ -1761,7 +2115,7 @@
         "playerBChange": 73,
         "recordedBy": "Hakbae Moon",
         "date": "2026-04-07",
-        "time": "ì¤í 08:13"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 08:13"
       },
       {
         "id": 37,
@@ -1802,7 +2156,7 @@
         "isHandicap": false,
         "recordedBy": "Hakbae Moon",
         "date": "2026-04-07",
-        "time": "ì¤í 08:12"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 08:12"
       },
       {
         "id": 36,
@@ -1839,7 +2193,7 @@
         "isHandicap": false,
         "recordedBy": "Hakbae Moon",
         "date": "2026-04-07",
-        "time": "ì¤í 08:11"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 08:11"
       },
       {
         "id": 35,
@@ -1884,7 +2238,7 @@
         "isHandicap": false,
         "recordedBy": "Hakbae Moon",
         "date": "2026-04-07",
-        "time": "ì¤í 08:11"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 08:11"
       },
       {
         "id": 34,
@@ -1920,7 +2274,7 @@
         "playerBChange": -2,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "ì¤í 11:21"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:21"
       },
       {
         "id": 33,
@@ -1956,7 +2310,7 @@
         "playerBChange": -5,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "ì¤í 11:21"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:21"
       },
       {
         "id": 32,
@@ -2000,7 +2354,7 @@
         "playerBChange": -7,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "ì¤í 11:20"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:20"
       },
       {
         "id": 31,
@@ -2036,7 +2390,7 @@
         "playerBChange": 9,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "ì¤í 11:20"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:20"
       },
       {
         "id": 30,
@@ -2072,7 +2426,7 @@
         "playerBChange": -18,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "ì¤í 11:19"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:19"
       },
       {
         "id": 29,
@@ -2108,7 +2462,7 @@
         "playerBChange": 8,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "ì¤í 11:19"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:19"
       },
       {
         "id": 28,
@@ -2144,7 +2498,7 @@
         "playerBChange": 14,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "ì¤í 11:18"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:18"
       },
       {
         "id": 27,
@@ -2180,7 +2534,7 @@
         "playerBChange": -18,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "ì¤í 11:18"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:18"
       },
       {
         "id": 26,
@@ -2216,7 +2570,7 @@
         "playerBChange": 10,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "ì¤í 11:17"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:17"
       },
       {
         "id": 25,
@@ -2260,7 +2614,7 @@
         "playerBChange": 6,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "ì¤í 11:17"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:17"
       },
       {
         "id": 24,
@@ -2301,7 +2655,7 @@
         "isHandicap": false,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "ì¤í 11:16"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:16"
       },
       {
         "id": 23,
@@ -2341,7 +2695,7 @@
         "playerBChange": 13,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "ì¤í 11:16"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:16"
       },
       {
         "id": 22,
@@ -2377,7 +2731,7 @@
         "playerBChange": 1,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "ì¤í 11:15"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:15"
       },
       {
         "id": 21,
@@ -2413,7 +2767,7 @@
         "playerBChange": -2,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "ì¤í 11:14"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:14"
       },
       {
         "id": 20,
@@ -2449,7 +2803,7 @@
         "playerBChange": -8,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "ì¤í 11:14"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:14"
       },
       {
         "id": 19,
@@ -2485,7 +2839,7 @@
         "playerBChange": -39,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "ì¤í 11:13"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:13"
       },
       {
         "id": 18,
@@ -2521,7 +2875,7 @@
         "playerBChange": -125,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "ì¤í 11:13"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:13"
       },
       {
         "id": 17,
@@ -2557,7 +2911,7 @@
         "playerBChange": 3,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "ì¤í 11:12"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:12"
       },
       {
         "id": 16,
@@ -2593,7 +2947,7 @@
         "playerBChange": 3,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "ì¤í 11:12"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:12"
       },
       {
         "id": 15,
@@ -2633,7 +2987,7 @@
         "playerBChange": 7,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "ì¤í 11:11"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:11"
       },
       {
         "id": 14,
@@ -2669,7 +3023,7 @@
         "playerBChange": -2,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "ì¤í 11:11"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:11"
       },
       {
         "id": 13,
@@ -2705,7 +3059,7 @@
         "playerBChange": 3,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "ì¤í 11:10"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:10"
       },
       {
         "id": 12,
@@ -2741,7 +3095,7 @@
         "playerBChange": -2,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "ì¤í 11:10"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:10"
       },
       {
         "id": 11,
@@ -2777,7 +3131,7 @@
         "playerBChange": -13,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "ì¤í 11:09"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:09"
       },
       {
         "id": 10,
@@ -2813,7 +3167,7 @@
         "playerBChange": 38,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "ì¤í 11:09"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:09"
       },
       {
         "id": 9,
@@ -2849,7 +3203,7 @@
         "playerBChange": -7,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "ì¤í 11:08"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:08"
       },
       {
         "id": 8,
@@ -2885,7 +3239,7 @@
         "playerBChange": -7,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "ì¤í 11:08"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:08"
       },
       {
         "id": 7,
@@ -2921,7 +3275,7 @@
         "playerBChange": 14,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "ì¤í 11:07"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:07"
       },
       {
         "id": 6,
@@ -2957,7 +3311,7 @@
         "playerBChange": 62,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "ì¤í 11:07"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:07"
       },
       {
         "id": 5,
@@ -2993,7 +3347,7 @@
         "playerBChange": -26,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "ì¤í 11:06"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:06"
       },
       {
         "id": 4,
@@ -3029,7 +3383,7 @@
         "playerBChange": -39,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "ì¤í 11:06"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:06"
       },
       {
         "id": 3,
@@ -3065,7 +3419,7 @@
         "playerBChange": -28,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "ì¤í 11:05"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:05"
       },
       {
         "id": 2,
@@ -3109,7 +3463,7 @@
         "playerBChange": -2,
         "recordedBy": "Hakbae Moon",
         "date": "2026-03-31",
-        "time": "ì¤í 11:05"
+        "time": "Ã¬ÂÂ¤Ã­ÂÂ 11:05"
       },
       {
         "id": 1,
@@ -3147,9 +3501,9 @@
         "time": "08:21"
       }
     ],
-    "nextPlayerId": 25,
-    "nextMatchId": 50,
-    "lastUpdated": "2026-04-07T03:29:03.387Z",
+    "nextPlayerId": 26,
+    "nextMatchId": 56,
+    "lastUpdated": "2026-04-28T01:06:44.967Z",
     "posts": [],
     "nextPostId": 1
   },
@@ -3182,5 +3536,5 @@
       }
     ]
   },
-  "savedAt": "2026-04-07T03:29:16.732Z"
+  "savedAt": "2026-04-28T01:06:44.968Z"
 }
