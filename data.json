@@ -661,14 +661,24 @@
       {
         "id": 6,
         "name": "Hakbae Moon",
-        "rating": 1784,
-        "wins": 9,
+        "rating": 1798,
+        "wins": 10,
         "losses": 7,
-        "totalSetsWon": 27,
+        "totalSetsWon": 30,
         "totalSetsLost": 22,
-        "totalPointsWon": 428,
-        "totalPointsLost": 527,
+        "totalPointsWon": 461,
+        "totalPointsLost": 529,
         "matchHistory": [
+          {
+            "matchId": 67,
+            "opponent": "D.H. Jang",
+            "result": "W",
+            "change": "+14",
+            "ratingAfter": 1798,
+            "setScore": "3-0",
+            "date": "2026-04-28",
+            "handicap": 9
+          },
           {
             "matchId": 63,
             "opponent": "Timothy",
@@ -1288,14 +1298,24 @@
       {
         "id": 14,
         "name": "D.H. Jang",
-        "rating": 1026,
+        "rating": 1008,
         "wins": 0,
-        "losses": 3,
+        "losses": 4,
         "totalSetsWon": 0,
-        "totalSetsLost": 9,
-        "totalPointsWon": 28,
-        "totalPointsLost": 101,
+        "totalSetsLost": 12,
+        "totalPointsWon": 30,
+        "totalPointsLost": 134,
         "matchHistory": [
+          {
+            "matchId": 67,
+            "opponent": "Hakbae Moon",
+            "result": "L",
+            "change": "-18",
+            "ratingAfter": 1008,
+            "setScore": "0-3",
+            "date": "2026-04-28",
+            "handicap": 9
+          },
           {
             "matchId": 61,
             "opponent": "Hakbae Moon",
@@ -1681,6 +1701,42 @@
       }
     ],
     "matches": [
+      {
+        "id": 67,
+        "winnerId": 6,
+        "loserId": 14,
+        "winnerName": "Hakbae Moon",
+        "loserName": "D.H. Jang",
+        "winnerRatingBefore": 1784,
+        "loserRatingBefore": 1026,
+        "winnerRatingAfter": 1798,
+        "loserRatingAfter": 1008,
+        "setScores": [
+          {
+            "a": 11,
+            "b": 0
+          },
+          {
+            "a": 11,
+            "b": 0
+          },
+          {
+            "a": 11,
+            "b": 2
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 33,
+        "loserPoints": 2,
+        "handicap": 9,
+        "isHandicap": true,
+        "playerAChange": 14,
+        "playerBChange": -18,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-04-28",
+        "time": "오전 06:48"
+      },
       {
         "id": 66,
         "winnerId": 5,
@@ -4122,8 +4178,8 @@
       }
     ],
     "nextPlayerId": 26,
-    "nextMatchId": 67,
-    "lastUpdated": "2026-04-28T10:47:51.175Z",
+    "nextMatchId": 68,
+    "lastUpdated": "2026-04-28T10:48:51.129Z",
     "posts": [],
     "nextPostId": 1
   },
@@ -4156,5 +4212,5 @@
       }
     ]
   },
-  "savedAt": "2026-04-28T10:47:51.177Z"
+  "savedAt": "2026-04-28T10:48:51.131Z"
 }
