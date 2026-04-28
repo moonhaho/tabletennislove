@@ -1426,14 +1426,23 @@
       {
         "id": 14,
         "name": "D.H. Jang",
-        "rating": 929,
-        "wins": 1,
+        "rating": 946,
+        "wins": 2,
         "losses": 5,
-        "totalSetsWon": 3,
-        "totalSetsLost": 15,
-        "totalPointsWon": 73,
-        "totalPointsLost": 182,
+        "totalSetsWon": 6,
+        "totalSetsLost": 17,
+        "totalPointsWon": 118,
+        "totalPointsLost": 219,
         "matchHistory": [
+          {
+            "matchId": 79,
+            "opponent": "Jeongmun Hwang",
+            "result": "W",
+            "change": "+17",
+            "ratingAfter": 946,
+            "setScore": "3-2",
+            "date": "2026-04-28"
+          },
           {
             "matchId": 76,
             "opponent": "Chang Hee Kim",
@@ -1515,14 +1524,23 @@
       {
         "id": 16,
         "name": "Jeongmun Hwang",
-        "rating": 935,
+        "rating": 918,
         "wins": 2,
-        "losses": 8,
-        "totalSetsWon": 8,
-        "totalSetsLost": 24,
-        "totalPointsWon": 171,
-        "totalPointsLost": 314,
+        "losses": 9,
+        "totalSetsWon": 10,
+        "totalSetsLost": 27,
+        "totalPointsWon": 208,
+        "totalPointsLost": 359,
         "matchHistory": [
+          {
+            "matchId": 79,
+            "opponent": "D.H. Jang",
+            "result": "L",
+            "change": "-17",
+            "ratingAfter": 918,
+            "setScore": "2-3",
+            "date": "2026-04-28"
+          },
           {
             "matchId": 77,
             "opponent": "K.H. Kim",
@@ -1920,6 +1938,51 @@
       }
     ],
     "matches": [
+      {
+        "id": 79,
+        "winnerId": 14,
+        "loserId": 16,
+        "winnerName": "D.H. Jang",
+        "loserName": "Jeongmun Hwang",
+        "winnerRatingBefore": 929,
+        "loserRatingBefore": 935,
+        "winnerRatingAfter": 946,
+        "loserRatingAfter": 918,
+        "pointsExchanged": 17,
+        "setScores": [
+          {
+            "a": 7,
+            "b": 11
+          },
+          {
+            "a": 5,
+            "b": 11
+          },
+          {
+            "a": 11,
+            "b": 5
+          },
+          {
+            "a": 11,
+            "b": 4
+          },
+          {
+            "a": 11,
+            "b": 6
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 2,
+        "winnerPoints": 45,
+        "loserPoints": 37,
+        "setMultiplier": 1,
+        "pointBonus": 1,
+        "handicap": 0,
+        "isHandicap": false,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-04-28",
+        "time": "오전 06:58"
+      },
       {
         "id": 78,
         "winnerId": 25,
@@ -4806,8 +4869,8 @@
       }
     ],
     "nextPlayerId": 26,
-    "nextMatchId": 79,
-    "lastUpdated": "2026-04-28T10:57:40.098Z",
+    "nextMatchId": 80,
+    "lastUpdated": "2026-04-28T10:58:36.799Z",
     "posts": [],
     "nextPostId": 1
   },
@@ -4840,5 +4903,5 @@
       }
     ]
   },
-  "savedAt": "2026-04-28T10:57:40.100Z"
+  "savedAt": "2026-04-28T10:58:36.801Z"
 }
