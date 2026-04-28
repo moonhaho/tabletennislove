@@ -671,14 +671,24 @@
       {
         "id": 6,
         "name": "Hakbae Moon",
-        "rating": 1797,
-        "wins": 11,
+        "rating": 1803,
+        "wins": 12,
         "losses": 7,
-        "totalSetsWon": 33,
+        "totalSetsWon": 36,
         "totalSetsLost": 23,
-        "totalPointsWon": 503,
-        "totalPointsLost": 563,
+        "totalPointsWon": 536,
+        "totalPointsLost": 568,
         "matchHistory": [
+          {
+            "matchId": 70,
+            "opponent": "David Oh",
+            "result": "W",
+            "change": "+6",
+            "ratingAfter": 1803,
+            "setScore": "3-0",
+            "date": "2026-04-28",
+            "handicap": 9
+          },
           {
             "matchId": 68,
             "opponent": "Coach Michael Sim",
@@ -1173,14 +1183,24 @@
       {
         "id": 13,
         "name": "David Oh",
-        "rating": 1030,
+        "rating": 1024,
         "wins": 3,
-        "losses": 11,
+        "losses": 12,
         "totalSetsWon": 7,
-        "totalSetsLost": 38,
-        "totalPointsWon": 218,
-        "totalPointsLost": 460,
+        "totalSetsLost": 41,
+        "totalPointsWon": 223,
+        "totalPointsLost": 493,
         "matchHistory": [
+          {
+            "matchId": 70,
+            "opponent": "Hakbae Moon",
+            "result": "L",
+            "change": "-6",
+            "ratingAfter": 1024,
+            "setScore": "0-3",
+            "date": "2026-04-28",
+            "handicap": 9
+          },
           {
             "matchId": 64,
             "opponent": "Head Coach. E.T. Kim",
@@ -1741,6 +1761,42 @@
       }
     ],
     "matches": [
+      {
+        "id": 70,
+        "winnerId": 6,
+        "loserId": 13,
+        "winnerName": "Hakbae Moon",
+        "loserName": "David Oh",
+        "winnerRatingBefore": 1797,
+        "loserRatingBefore": 1030,
+        "winnerRatingAfter": 1803,
+        "loserRatingAfter": 1024,
+        "setScores": [
+          {
+            "a": 11,
+            "b": 2
+          },
+          {
+            "a": 11,
+            "b": 0
+          },
+          {
+            "a": 11,
+            "b": 3
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 33,
+        "loserPoints": 5,
+        "handicap": 9,
+        "isHandicap": true,
+        "playerAChange": 6,
+        "playerBChange": -6,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-04-28",
+        "time": "오전 06:50"
+      },
       {
         "id": 69,
         "winnerId": 11,
@@ -4294,8 +4350,8 @@
       }
     ],
     "nextPlayerId": 26,
-    "nextMatchId": 70,
-    "lastUpdated": "2026-04-28T10:50:07.541Z",
+    "nextMatchId": 71,
+    "lastUpdated": "2026-04-28T10:50:53.040Z",
     "posts": [],
     "nextPostId": 1
   },
@@ -4328,5 +4384,5 @@
       }
     ]
   },
-  "savedAt": "2026-04-28T10:50:07.543Z"
+  "savedAt": "2026-04-28T10:50:53.041Z"
 }
