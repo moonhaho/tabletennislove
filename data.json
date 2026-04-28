@@ -198,14 +198,24 @@
       {
         "id": 3,
         "name": "Head Coach. E.T. Kim",
-        "rating": 1984,
+        "rating": 1942,
         "wins": 10,
-        "losses": 1,
+        "losses": 2,
         "totalSetsWon": 27,
-        "totalSetsLost": 9,
-        "totalPointsWon": 351,
-        "totalPointsLost": 209,
+        "totalSetsLost": 12,
+        "totalPointsWon": 359,
+        "totalPointsLost": 242,
         "matchHistory": [
+          {
+            "matchId": 66,
+            "opponent": "Coach Michael Sim",
+            "result": "L",
+            "change": "-42",
+            "ratingAfter": 1942,
+            "setScore": "0-3",
+            "date": "2026-04-28",
+            "handicap": 5
+          },
           {
             "matchId": 64,
             "opponent": "David Oh",
@@ -426,14 +436,24 @@
       {
         "id": 5,
         "name": "Coach Michael Sim",
-        "rating": 1599,
-        "wins": 12,
+        "rating": 1642,
+        "wins": 13,
         "losses": 8,
-        "totalSetsWon": 44,
+        "totalSetsWon": 47,
         "totalSetsLost": 22,
-        "totalPointsWon": 604,
-        "totalPointsLost": 492,
+        "totalPointsWon": 637,
+        "totalPointsLost": 500,
         "matchHistory": [
+          {
+            "matchId": 66,
+            "opponent": "Head Coach. E.T. Kim",
+            "result": "W",
+            "change": "+43",
+            "ratingAfter": 1642,
+            "setScore": "3-0",
+            "date": "2026-04-28",
+            "handicap": 5
+          },
           {
             "matchId": 65,
             "opponent": "Timothy",
@@ -1661,6 +1681,42 @@
       }
     ],
     "matches": [
+      {
+        "id": 66,
+        "winnerId": 5,
+        "loserId": 3,
+        "winnerName": "Coach Michael Sim",
+        "loserName": "Head Coach. E.T. Kim",
+        "winnerRatingBefore": 1599,
+        "loserRatingBefore": 1984,
+        "winnerRatingAfter": 1642,
+        "loserRatingAfter": 1942,
+        "setScores": [
+          {
+            "a": 3,
+            "b": 11
+          },
+          {
+            "a": 3,
+            "b": 11
+          },
+          {
+            "a": 2,
+            "b": 11
+          }
+        ],
+        "winnerSets": 3,
+        "loserSets": 0,
+        "winnerPoints": 33,
+        "loserPoints": 8,
+        "handicap": 5,
+        "isHandicap": true,
+        "playerAChange": -42,
+        "playerBChange": 43,
+        "recordedBy": "Hakbae Moon",
+        "date": "2026-04-28",
+        "time": "오전 06:47"
+      },
       {
         "id": 65,
         "winnerId": 2,
@@ -4066,8 +4122,8 @@
       }
     ],
     "nextPlayerId": 26,
-    "nextMatchId": 66,
-    "lastUpdated": "2026-04-28T10:47:09.811Z",
+    "nextMatchId": 67,
+    "lastUpdated": "2026-04-28T10:47:51.175Z",
     "posts": [],
     "nextPostId": 1
   },
@@ -4100,5 +4156,5 @@
       }
     ]
   },
-  "savedAt": "2026-04-28T10:47:09.813Z"
+  "savedAt": "2026-04-28T10:47:51.177Z"
 }
